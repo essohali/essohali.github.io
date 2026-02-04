@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Essoham ALI</title>
+
     <style>
         body {
             font-family: Arial, Helvetica, sans-serif;
@@ -11,12 +12,16 @@
             color: #222;
         }
 
-        header img {
-            width: 100%;
-            height: auto;
-            display: block;
+        /* ===== HEADER IMAGE (STATISTIQUES / PROBABILITÉS) ===== */
+        .hero {
+            height: 280px;                /* hauteur sobre et académique */
+            background-image: url("panorama.jpg");
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
         }
 
+        /* ===== LAYOUT ===== */
         .container {
             display: flex;
             max-width: 1200px;
@@ -66,47 +71,47 @@
         }
     </style>
 </head>
+
 <body>
 
-<header>
-    <!-- Image panoramique (à remplacer si besoin) -->
-    <img src="panorama.jpg" alt="Panorama côtier">
-</header>
+    <!-- IMAGE DE HEADER -->
+    <header class="hero"></header>
 
-<div class="container">
+    <div class="container">
 
-    <nav>
-        <a href="#">CV</a>
-        <a href="#">RESEARCH</a>
-        <a href="#">TALKS</a>
-        <a href="#">TEACHING</a>
-    </nav>
+        <nav>
+            <a href="#">CV</a>
+            <a href="#">RESEARCH</a>
+            <a href="#">TALKS</a>
+            <a href="#">TEACHING</a>
+        </nav>
 
-    <main>
-        <h1>Essoham ALI</h1>
+        <main>
+            <h1>Essoham ALI</h1>
 
-        <h2>POSITION</h2>
-        <p>
-            Professor at INSA Rennes<br>
-            Member of the Department of Mathematics of INSA Rennes<br>
-            Member of the Mathematics Research Institute of Rennes (IRMAR)
-        </p>
-
-        <h2>CONTACT INFORMATION</h2>
-        <div class="contact">
-            <p><strong>Address</strong><br>
-                INSA de Rennes<br>
-                20 Avenue des Buttes de Coësmes<br>
-                CS 70839<br>
-                35708 Rennes Cedex 7
+            <h2>POSITION</h2>
+            <p>
+                Professor at INSA Rennes<br>
+                Member of the Department of Mathematics of INSA Rennes<br>
+                Member of the Mathematics Research Institute of Rennes (IRMAR)
             </p>
 
-            <p><strong>Office</strong> 307 (building 2)</p>
-            <p><strong>Email</strong> essoham(dot)ali(at)insa-rennes(dot)fr</p>
-        </div>
-    </main>
+            <h2>CONTACT INFORMATION</h2>
+            <div class="contact">
+                <p>
+                    <strong>Address</strong><br>
+                    INSA de Rennes<br>
+                    20 Avenue des Buttes de Coësmes<br>
+                    CS 70839<br>
+                    35708 Rennes Cedex 7
+                </p>
 
-</div>
+                <p><strong>Office</strong> 307 (building 2)</p>
+                <p><strong>Email</strong> essoham(dot)ali(at)insa-rennes(dot)fr</p>
+            </div>
+        </main>
+
+    </div>
 
 </body>
 </html>
