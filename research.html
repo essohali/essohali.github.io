@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Essoham ALI — Research</title>
+
+  <style>
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+      margin: 0;
+      background-color: #ffffff;
+      color: #222;
+    }
+
+    /* ===== TITRE ===== */
+    .site-title {
+      font-size: 36px;
+      font-weight: normal;
+      color: #2a7dbb;
+      max-width: 1200px;
+      margin: 25px auto 15px auto;
+      padding: 0 10px;
+    }
+
+    /* ===== IMAGE PANORAMIQUE ===== */
+    .banner {
+      width: 100%;
+      margin-bottom: 30px;
+      border-top: 4px solid #d0d8de;
+    }
+    .banner img {
+      width: 100%;
+      height: 300px;
+      object-fit: cover;
+      display: block;
+    }
+
+    /* ===== LAYOUT PRINCIPAL ===== */
+    .container {
+      display: flex;
+      max-width: 1200px;
+      margin: 0 auto 40px auto;
+      padding: 0 10px;
+    }
+
+    /* ===== MENU ===== */
+    nav {
+      width: 200px;
+      margin-right: 30px;
+    }
+    nav a {
+      display: block;
+      padding: 12px;
+      margin-bottom: 10px;
+      background-color: #eee;
+      color: #333;
+      text-decoration: none;
+      font-weight: bold;
+      border-left: 6px solid transparent;
+    }
+    nav a:hover { background-color: #ddd; }
+
+    /* Onglet actif */
+    nav a.active {
+      border-left-color: #2a7dbb;
+      background-color: #e6eef6;
+    }
+
+    /* ===== CONTENU ===== */
+    main { flex: 1; }
+
+    h2 {
+      color: #2a7dbb;
+      margin-top: 10px;
+      font-size: 26px;
+    }
+
+    h3 {
+      color: #2a7dbb;
+      margin-top: 22px;
+      font-size: 20px;
+    }
+
+    p { line-height: 1.6; }
+
+    ul.pub-list {
+      margin: 10px 0 0 18px;
+      padding: 0;
+    }
+    ul.pub-list li {
+      margin: 8px 0;
+      line-height: 1.5;
+    }
+
+    /* ===== FOOTER ===== */
+    .site-footer {
+      margin-top: 60px;
+      padding: 30px 10px;
+      border-top: 1px dotted #ccc;
+      text-align: center;
+      font-size: 14px;
+      color: #777;
+    }
+    .site-footer p { margin: 5px 0; }
+    .footer-credit { color: #999; }
+
+    /* ===== RESPONSIVE SIMPLE ===== */
+    @media (max-width: 800px) {
+      .container { flex-direction: column; }
+      nav { width: 100%; margin-bottom: 20px; }
+    }
+  </style>
+</head>
+
+<body>
+
+  <!-- TITRE -->
+  <h1 class="site-title">Essoham ALI</h1>
+
+  <!-- IMAGE PANORAMIQUE -->
+  <div class="banner">
+    <img src="panorama.png" alt="Panorama">
+  </div>
+
+  <!-- CONTENU PRINCIPAL -->
+  <div class="container">
+
+    <nav>
+      <a href="index.html">HOME</a>
+      <a href="cv.html">CV</a>
+      <a class="active" href="research.html">RESEARCH</a>
+      <a href="talks.html">TALKS</a>
+      <a href="teaching.html">TEACHING</a>
+    </nav>
+
+    <main>
+      <h2>RESEARCH</h2>
+
+      <h3>Publications</h3>
+
+      <h3>Books</h3>
+      <ul class="pub-list">
+        <!-- EXEMPLES (à remplacer par tes références exactes) -->
+        <li><strong>Auteur(s)</strong>. <em>Titre du livre</em>. Éditeur, année.</li>
+        <li><strong>Auteur(s)</strong>. <em>Titre du livre</em>. Éditeur, année.</li>
+      </ul>
+
+      <h3>Articles (Statistics)</h3>
+      <ul class="pub-list">
+        <!-- Mets ici ta liste d’articles en statistiques -->
+        <li><strong>Auteur(s)</strong>. Titre de l’article. <em>Journal</em>, volume(numéro), pages, année.</li>
+        <li><strong>Auteur(s)</strong>. Titre de l’article. <em>Journal</em>, volume(numéro), pages, année.</li>
+      </ul>
+
+      <h3>Articles (Applications / Engineering)</h3>
+      <ul class="pub-list">
+        <!-- Mets ici ta liste d’articles appliqués -->
+        <li><strong>Auteur(s)</strong>. Titre de l’article. <em>Journal</em>, volume(numéro), pages, année.</li>
+      </ul>
+
+      <h3>Short notes</h3>
+      <ul class="pub-list">
+        <li><strong>Auteur(s)</strong>. Titre. <em>Revue</em>, année.</li>
+      </ul>
+
+      <h3>Contributions in edited volumes</h3>
+      <ul class="pub-list">
+        <li><strong>Auteur(s)</strong>. Titre du chapitre. Dans : <em>Titre de l’ouvrage</em> (éditeurs), pages, éditeur, année.</li>
+      </ul>
+
+      <h3>Submitted / Preprints</h3>
+      <ul class="pub-list">
+        <li><strong>Auteur(s)</strong>. Titre. Preprint / HAL / arXiv : identifiant.</li>
+      </ul>
+
+    </main>
+  </div>
+
+  <!-- FOOTER -->
+  <footer class="site-footer">
+    <p>© 2016 Jean-François Dupuy</p>
+    <p class="footer-credit">Template design by Andreas Viklund</p>
+  </footer>
+
+</body>
+</html>
