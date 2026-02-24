@@ -5,22 +5,21 @@ title: Home
 
 ## About
 
-I am a researcher in **applied statistics and data science**, working at the
-interface between **statistical learning**, **probabilistic modelling**, and
-**real-world data applications**.
+I am a researcher in **applied statistics and statistical learning**,
+developing methodological tools for the analysis of **complex and zero-inflated data**.
 
-My research focuses on developing statistical methods motivated by
-high-dimensional and complex datasets arising in modern scientific and
-industrial contexts.
+My research focuses on statistical modelling, regularized estimation,
+and inference methods motivated by applications in health sciences,
+economics, and real-world data analysis.
 
 ---
 
 ## Research Areas
 
-- **Statistical Learning**
-- **Applied Statistics**
-- **Machine Learning**
-- **Data Science & Applications**
+- Statistical modelling for count and zero-inflated data
+- Regularized estimation and penalized regression
+- Statistical learning methods
+- Applied data science and simulation-based inference
 
 ---
 
@@ -31,21 +30,19 @@ Member of the Institute of Applied Mathematics (MAI)
 
 ---
 
-## Teaching
+## Selected Publications
 
-I teach courses in:
+- Regularized estimation for right-censored zero-inflated Poisson regression (*Computational Statistics*, 2026)
+- Contraction Ridge Estimator for economic data (*Computational Economics*, to appear)
+- Zero-inflated Probit Bell models for count data (*Journal of Applied Statistics*)
 
-- Probability and Statistics
-- Statistical Learning
-- Data Science and Machine Learning
-
-More details → [Teaching](/teaching/)
+→ Full list in [Research](/research/)
 
 ---
 
-## Selected Links
+## Teaching
 
-- 📄 [Research](/research/)
-- 🎓 [Teaching](/teaching/)
-- 📑 [Curriculum Vitae](/cv/)
-- ✉️ [Contact](/contact/)
+I teach probability, statistics, and statistical learning courses
+from undergraduate to master's level.
+
+More details → [Teaching](/teaching/)
