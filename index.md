@@ -1,9 +1,4 @@
----
-layout: default
-title: Home
----
 
-## About
 
 I am a researcher in **applied statistics and data science** working on statistical learning and applied modelling.
 
