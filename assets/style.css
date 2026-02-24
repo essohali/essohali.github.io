@@ -21,3 +21,15 @@ footer {
   margin-top: 40px;
   color: #666;
 }
+
+h2 {
+  margin-top: 35px;
+}
+
+.container {
+  font-size: 17px;
+}
+
+ul {
+  line-height: 1.8;
+}
