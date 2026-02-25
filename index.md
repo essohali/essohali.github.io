@@ -77,10 +77,4 @@ high-dimensional settings.
 </div>
 </div>
 
-<div class="section">
-<h2>Keywords</h2>
-<p>
-Zero-inflated regression · Count data · Penalized estimation ·
-High-dimensional inference · Robust statistics · Applied modelling
-</p>
-</div>
+
