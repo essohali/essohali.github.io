@@ -19,24 +19,11 @@ title: Home
 
     <p class="contact">
       <a href="mailto:essoham.ali@univ-ubs.fr">
-        essoham.ali@univ-ubs.fr
+        Email: essoham.ali@univ-ubs.fr
       </a>
     </p>
 
-    <ul>
-     <div class="section">
-  <h2>Research Interests</h2>
-
-  <p class="research-interests">
-    Applied statistics, Statistical learning, Count data modelling,
-    Zero-inflated models, Regularized estimation, Penalized regression,
-    Robust statistics, High-dimensional inference,
-    Multivariate dependence modelling, Latent variable models,
-    Sufficient dimension reduction, Computational statistics,
-    Data science applications in health and economics.
-  </p>
-</div>
-    </ul>
+    
   </div>
 </div>
 
@@ -62,6 +49,20 @@ Recent work develops interpretable models for dependent count data
 and robust methods for variable selection and inference in
 high-dimensional settings.
 </p>
+<ul>
+     <div class="section">
+  <h2>Research Interests</h2>
+
+  <p class="research-interests">
+    Applied statistics, Statistical learning, Count data modelling,
+    Zero-inflated models, Regularized estimation, Penalized regression,
+    Robust statistics, High-dimensional inference,
+    Multivariate dependence modelling, Latent variable models,
+    Sufficient dimension reduction, Computational statistics,
+    Data science applications in health and economics.
+  </p>
+</div>
+    </ul>
 
 <div class="section">
 <h2>Quick Access</h2>
