@@ -26,21 +26,13 @@ title: Publications
 
    ---
 
-## Articles (Applications / Engineering)
-
-1. **Author(s).**  
-   Title of the article.  
-   *Journal Name*, volume(issue), pages, year.
----
-
 ## Book Chapters (Invited Contributions)
 
-1. **Ali, E.**  
-   Invited chapter for an edited volume (in preparation).  
-   Publisher: *IntechOpen*.  
-   Invitation received in 2026.  
+  **Ali, E.** Invited chapter for an edited volume (in preparation).  
+   Publisher: *IntechOpen*.  Invitation received in 2026.  
    <a href="https://www.intechopen.com/welcome/c7066c5f85fb017f?book_id=1005337" target="_blank">Project page</a>.
----
+
+
 ## Submitted / Preprints
 5. **Ali, Essoham; Soale, Abdul-Nasah; Lukman, Adewale; Solym M., Manou-Abi4.** Shared–idiosyncratic frailty models for multivariate count data. Submitted to *scandinavian journal of statistics*, 2026.  [PDF]
 
