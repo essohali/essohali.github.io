@@ -1,6 +1,6 @@
----
-layout: default
-title: Home
+# Essoham Ali
+
+**Applied Statistics · Statistical Learning · Data Science**
 ---
 
 ## About
