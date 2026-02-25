@@ -51,7 +51,7 @@ title: Publications
    Adaptive Influence Diagnostics in Regression Models with Highly Correlated Designs.  
    Submitted to *Statistical Methods in Medical Research*, 2025.  [PDF]
 
-2.  **Essohamn, Ali; Adewale, Lukman.** Oracle and grouping properties of the Liu-SCAD estimator with applications to low and      high-dimensional regression.  Under review to *Journal of Computational and Applied Mathematics*, 2025.  
-     [PDF]
+2.  **Essohamn, Ali; Adewale, Lukman.** Oracle and grouping properties of the Liu-SCAD estimator with applications to low and      high-dimensional regression.  Under review to *Journal of Computational and Applied Mathematics*, 2025.   [PDF]
+   
 1. **Agnondji Gnon, Siya; Essoham, Ali; Aliou, Diop.** Marginal effects for zero-inflated semi-continuous data.
    Under review to *Journal of Statistical Computation and Simulation*, 2025.  [PDF]
