@@ -31,14 +31,12 @@ title: Publications
   **Ali, E.** Invited chapter for an edited volume (in preparation).  
    Publisher: *IntechOpen*.  Invitation received in 2026. <a href="https://www.intechopen.com/welcome/c7066c5f85fb017f?book_id=1005337" target="_blank">Project page</a>.
 
-
 ## Submitted / Preprints
-5. **Ali, Essoham; Soale, Abdul-Nasah; Lukman, Adewale; Solym M., Manou-Abi4.** Shared–idiosyncratic frailty models for multivariate count data. Submitted to *scandinavian journal of statistics*, 2026.  [PDF]
+ 5. **Ali, Essoham;  Lukman, Adewale; Soale, Abdul-Nasah; Solym M., Manou-Abi.** Shared–idiosyncratic frailty models for multivariate count data. Submitted to *scandinavian journal of statistics*, 2026.  [PDF]
 
-4. **Soale, Abdul-Nasah; Lukman, Adewale; Ali, Essoham.**  Doubly-robust sufficient variable selection in single-index models with outlier contamination. Submitted to *Electronic Journal of Statistics*, 2026.  [PDF]
+ 4. **Soale, Abdul-Nasah; Lukman, Adewale; Ali, Essoham.**  Doubly-robust sufficient variable selection in single-index models with outlier contamination. Submitted to *Electronic Journal of Statistics*, 2026.  [PDF]
 
- 
-3.  **Soale, Abdul-Nasah; Lukman, Adewale; Ali, Essoham.**  
+ 3.  **Soale, Abdul-Nasah; Lukman, Adewale; Ali, Essoham.**  
    Adaptive Influence Diagnostics in Regression Models with Highly Correlated Designs.  
    Submitted to *Statistical Methods in Medical Research*, 2025.  [PDF]
 
