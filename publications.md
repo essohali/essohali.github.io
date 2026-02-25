@@ -31,9 +31,6 @@ title: Publications
 1. **Author(s).**  
    Title of the article.  
    *Journal Name*, volume(issue), pages, year.
-
-
-
 ---
 
 ## Book Chapters (Invited Contributions)
@@ -45,22 +42,16 @@ title: Publications
    <a href="https://www.intechopen.com/welcome/c7066c5f85fb017f?book_id=1005337" target="_blank">Project page</a>.
 ---
 ## Submitted / Preprints
-5. **Ali, Essoham; Soale, Abdul-Nasah; Lukman, Adewale; Solym M., Manou-Abi4.** Shared–idiosyncratic frailty models for multivariate count data
-   Submitted to *scandinavian journal of statistics*, 2026.  
-   [PDF]
+5. **Ali, Essoham; Soale, Abdul-Nasah; Lukman, Adewale; Solym M., Manou-Abi4.** Shared–idiosyncratic frailty models for multivariate count data. Submitted to *scandinavian journal of statistics*, 2026.  [PDF]
 
-4. **Soale, Abdul-Nasah; Lukman, Adewale; Ali, Essoham.**  
-   Doubly-robust sufficient variable selection in single-index models with outlier contamination
-   Submitted to *Electronic Journal of Statistics*, 2026.  
-   [PDF]
+4. **Soale, Abdul-Nasah; Lukman, Adewale; Ali, Essoham.**  Doubly-robust sufficient variable selection in single-index models with outlier contamination. Submitted to *Electronic Journal of Statistics*, 2026.  [PDF]
 
+ 
 3.  **Soale, Abdul-Nasah; Lukman, Adewale; Ali, Essoham.**  
    Adaptive Influence Diagnostics in Regression Models with Highly Correlated Designs.  
-   Submitted to *Statistical Methods in Medical Research*, 2025.  
-   [PDF]
+   Submitted to *Statistical Methods in Medical Research*, 2025.  [PDF]
 
 2.  **Essohamn, Ali; Adewale, Lukman.** Oracle and grouping properties of the Liu-SCAD estimator with applications to low and      high-dimensional regression.  Under review to *Journal of Computational and Applied Mathematics*, 2025.  
      [PDF]
 1. **Agnondji Gnon, Siya; Essoham, Ali; Aliou, Diop.** Marginal effects for zero-inflated semi-continuous data.
-   Under review to *Journal of Statistical Computation and Simulation*, 2025.  
-   [PDF]
+   Under review to *Journal of Statistical Computation and Simulation*, 2025.  [PDF]
