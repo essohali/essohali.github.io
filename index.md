@@ -12,16 +12,16 @@ title: Home
     <p class="name">Essoham Ali</p>
 
     <p class="role">
-  Lecturer-Researcher — UCO Angers<br>
-  Institute of Applied Mathematics (MAI)<br>
-  Member of LMBA, Université Bretagne Sud
-</p>
+      Lecturer-Researcher — UCO Angers<br>
+      Institute of Applied Mathematics (MAI)<br>
+      Member of LMBA, Université Bretagne Sud
+    </p>
 
-<p class="contact">
-  <a href="mailto:essoham.ali@univ-ubs.fr">
-    essoham.ali@univ-ubs.fr
-  </a>
-</p>
+    <p class="contact">
+      <a href="mailto:essoham.ali@univ-ubs.fr">
+        essoham.ali@univ-ubs.fr
+      </a>
+    </p>
 
     <ul>
       <li>Applied statistics for complex count data</li>
