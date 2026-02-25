@@ -43,11 +43,6 @@ applications in health sciences, economics, and real-world data analysis.
 </p>
 
 <hr>
-
-<h2>Recent Research</h2>
-
-<h3>Axis 1 — Multivariate Count Data Modelling</h3>
-
 <p>
 I develop probabilistic models for correlated count data exhibiting
 both dependence and overdispersion. Recent work introduces a
@@ -63,7 +58,6 @@ with formal identifiability and EM-based inference.
 <li>EM algorithm for inference</li>
 </ul>
 
-<h3>Axis 2 — Robust High-Dimensional Variable Selection</h3>
 
 <p>
 I propose robust variable selection methods for semi-parametric
