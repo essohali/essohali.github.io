@@ -12,9 +12,16 @@ title: Home
     <p class="name">Essoham Ali</p>
 
     <p class="role">
-      Associate Professor (Maître de conférences) — UCO Angers<br>
-      Institute of Applied Mathematics (MAI)
-    </p>
+  Associate Professor — UCO Angers<br>
+  Institute of Applied Mathematics (MAI)<br>
+  Member of LMBA, Université Bretagne Sud
+</p>
+
+<p class="contact">
+  <a href="mailto:essoham.ali@univ-ubs.fr">
+    essoham.ali@univ-ubs.fr
+  </a>
+</p>
 
     <ul>
       <li>Applied statistics for complex count data</li>
@@ -30,55 +37,29 @@ title: Home
 <h1>Research Profile</h1>
 
 <p>
-I develop methodological tools in <strong>applied statistics</strong> and
-<strong>statistical learning</strong> for the analysis of
+I develop statistical methodology in <strong>applied statistics</strong>
+and <strong>statistical learning</strong> for the analysis of
 <strong>complex data</strong>, with a particular focus on
 count data and zero-inflated models.
 </p>
 
 <p>
 My research lies at the interface between statistical modelling,
-robust inference, and applied data science, motivated by
-applications in health sciences, economics, and real-world data analysis.
+robust inference, and applied data science, motivated by applications
+in health sciences, economics, and real-world data analysis.
 </p>
-
-<hr>
-<p>
-I develop probabilistic models for correlated count data exhibiting
-both dependence and overdispersion. Recent work introduces a
-<strong>shared–idiosyncratic frailty decomposition</strong>
-that separates global dependence from outcome-specific heterogeneity,
-with formal identifiability and EM-based inference.
-</p>
-
-<ul>
-<li>mixed Poisson models</li>
-<li>multivariate dependence modelling</li>
-<li>interpretable latent structures</li>
-<li>EM algorithm for inference</li>
-</ul>
-
 
 <p>
-I propose robust variable selection methods for semi-parametric
-single-index models under data contamination.
-The approach combines penalized local median regression with
-sparse dimension reduction, providing doubly robust estimation
-in high-dimensional settings.
+Recent work develops interpretable models for dependent count data
+and robust methods for variable selection and inference in
+high-dimensional settings.
 </p>
-
-<ul>
-<li>robust statistics</li>
-<li>variable selection</li>
-<li>sufficient dimension reduction</li>
-<li>high-dimensional inference</li>
-</ul>
 
 <div class="section">
 <h2>Quick Access</h2>
 <ul>
 <li><a href="/publications/">Publications</a></li>
-<li><a href="/research-vision/">Research Vision</a></li>
+<li><a href="/research/">Research</a></li>
 <li><a href="/teaching/">Teaching</a></li>
 <li><a href="/contact/">Contact</a></li>
 </ul>
@@ -91,6 +72,6 @@ in high-dimensional settings.
 <h2>Keywords</h2>
 <p>
 Zero-inflated regression · Count data · Penalized estimation ·
-Ridge regularization · Statistical inference · Applied modelling
+High-dimensional inference · Robust statistics · Applied modelling
 </p>
 </div>
