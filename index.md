@@ -12,7 +12,7 @@ title: Home
     <p class="name">Essoham Ali</p>
 
     <p class="role">
-  Associate Professor — UCO Angers<br>
+  Lecturer-Researcher — UCO Angers<br>
   Institute of Applied Mathematics (MAI)<br>
   Member of LMBA, Université Bretagne Sud
 </p>
