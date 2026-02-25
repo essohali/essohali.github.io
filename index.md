@@ -24,10 +24,18 @@ title: Home
     </p>
 
     <ul>
-      <li>Applied statistics for complex count data</li>
-      <li>Zero-inflated models & statistical inference</li>
-      <li>Regularization and penalized estimation</li>
-      <li>Applications in health sciences and economics</li>
+     <div class="section">
+  <h2>Research Interests</h2>
+
+  <p class="research-interests">
+    Applied statistics, Statistical learning, Count data modelling,
+    Zero-inflated models, Regularized estimation, Penalized regression,
+    Robust statistics, High-dimensional inference,
+    Multivariate dependence modelling, Latent variable models,
+    Sufficient dimension reduction, Computational statistics,
+    Data science applications in health and economics.
+  </p>
+</div>
     </ul>
   </div>
 </div>
