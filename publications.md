@@ -29,8 +29,7 @@ title: Publications
 ## Book Chapters (Invited Contributions)
 
   **Ali, E.** Invited chapter for an edited volume (in preparation).  
-   Publisher: *IntechOpen*.  Invitation received in 2026.  
-   <a href="https://www.intechopen.com/welcome/c7066c5f85fb017f?book_id=1005337" target="_blank">Project page</a>.
+   Publisher: *IntechOpen*.  Invitation received in 2026. <a href="https://www.intechopen.com/welcome/c7066c5f85fb017f?book_id=1005337" target="_blank">Project page</a>.
 
 
 ## Submitted / Preprints
