@@ -1,8 +1,8 @@
 
 ---
 layout: default
-title: Teaching
-permalink: /teaching/
+title: Courses
+permalink: /teaching-courses/
 ---
 
 ## Teaching Philosophy
