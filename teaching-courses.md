@@ -1,84 +1,114 @@
-
 ---
 layout: default
 title: Courses
 permalink: /teaching-courses/
 ---
 
-## Teaching Philosophy
+# Courses
 
-My teaching approach aims to bridge **mathematical foundations** and
-**practical data science applications**.
-
-I seek to help students develop both theoretical understanding and practical
-skills, enabling them to analyse real-world data with rigorous statistical
-reasoning.
+I have taught a wide range of courses in probability, statistics,
+data analysis, and statistical computing at undergraduate and
+graduate levels. My teaching combines mathematical foundations,
+statistical modelling, and computational practice using real datasets.
 
 ---
 
-## Pedagogical Principles
+## Undergraduate Teaching
 
-### 1. From Theory to Applications
+### Year 1 (L1 / Bachelor 1)
 
-I emphasise the connection between mathematical concepts and real data
-problems.  
-Examples and projects are used to illustrate abstract ideas and motivate
-learning.
+- Probability and Statistics  
+- Statistical Surveys and Data Collection  
+- Introductory Statistics  
+- Mathematical Analysis
 
----
-
-### 2. Active Learning
-
-Students learn statistics best by practicing.  
-I integrate exercises, computational notebooks, and project-based learning
-into my courses.
+**Main topics**
+- descriptive statistics
+- probability foundations
+- statistical reasoning
+- mathematical tools for data analysis
 
 ---
 
-### 3. Progressive Skill Development
+### Year 2 (L2 / Bachelor 2)
 
-My teaching adapts to different levels:
+- Linear Models  
+- Statistical Programming with **R** and **SAS**  
+- Factor Analysis and Multivariate Methods  
+- Time Series Analysis  
+- Numerical Analysis  
+- Descriptive Statistics
 
-- **Undergraduate:** foundations in probability and statistics
-- **Master:** statistical learning and modelling
-- **Advanced courses:** data science projects and methodological autonomy
-
----
-
-## Courses Taught
-
-| Year | Course | Level |
-|---|---|---|
-| 2025 | Probability and Statistics | L3 |
-| 2024 | Statistical Learning | M1 |
-| 2024 | Data Science | M2 |
-
-*(to be adapted)*
+**Skills developed**
+- regression modelling
+- multivariate data analysis
+- computational statistics
+- data exploration
 
 ---
 
-## Student Supervision
+### Year 3 (L3 / Bachelor 3)
 
-I supervise student projects and internships, guiding students in:
+- Stochastic Processes  
+- Statistical Inference  
+- Discriminant Analysis and Logistic Regression  
+- Statistical Programming in **R**  
+- Statistics with Python and Machine Learning  
+- Data Analysis using R
 
-- problem formulation,
-- statistical modelling,
-- scientific communication.
-
----
-
-## Teaching Interests
-
-I am particularly interested in developing courses at the interface between:
-
-- statistics,
-- machine learning,
-- data science,
-- applied modelling.
+**Focus**
+- statistical modelling
+- classification methods
+- machine learning introduction
+- applied statistical computing
 
 ---
 
-## Future Teaching Development
+## Graduate Teaching (Master Level)
 
-In the future, I aim to contribute to innovative teaching formats combining
-theoretical lectures, computational practice, and interdisciplinary projects.
+### Master 1 (M1)
+
+- Linear Models (advanced)
+- Operations Research
+
+**Topics**
+- advanced regression modelling
+- optimisation methods
+- modelling for decision sciences
+
+---
+
+## Teaching Formats
+
+I have experience teaching in multiple pedagogical formats:
+
+- **Lectures (CM)** — theoretical foundations  
+- **Tutorials (TD)** — problem-solving sessions  
+- **Practical sessions (TP)** — computational and data analysis practice
+
+---
+
+## Programming and Software
+
+Courses integrate modern statistical tools:
+
+- R
+- Python
+- SAS
+- statistical computing environments
+
+---
+
+## Teaching Experience Overview
+
+My teaching experience covers:
+
+- probability and statistics foundations,
+- statistical inference and modelling,
+- multivariate analysis,
+- time series,
+- machine learning introduction,
+- statistical programming and data science.
+
+This diversity allows me to adapt teaching to students from mathematics,
+statistics, and applied data science programs.
