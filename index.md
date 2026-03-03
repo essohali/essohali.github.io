@@ -5,9 +5,6 @@ title: Home
 
 <div class="hero">
 
-<div class="profile-card">
-  <img src="/assets/profile.jpg" alt="Essoham Ali">
-
   <div class="profile-meta">
     <p class="name">Essoham Ali</p>
 
@@ -63,16 +60,6 @@ high-dimensional settings.
   </p>
 </div>
     </ul>
-
-<div class="section">
-<h2>Quick Access</h2>
-<ul>
-<li><a href="/publications/">Publications</a></li>
-<li><a href="/research/">Research</a></li>
-<li><a href="/teaching/">Teaching</a></li>
-<li><a href="/contact/">Contact</a></li>
-</ul>
-</div>
 
 </div>
 </div>
