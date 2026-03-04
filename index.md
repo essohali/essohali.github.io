@@ -1,113 +1,67 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<title>Essoham Ali | Statistician</title>
-<link rel="stylesheet" href="css/style.css">
-</head>
+---
+layout: default
+title: Home
+---
 
-<body>
+<div class="hero">
 
-<header>
-<nav class="container">
-<div><strong>Essoham Ali</strong></div>
+  <div class="profile-meta">
+    <p class="name">Essoham Ali</p>
 
-<div>
-<a href="index.html">Home</a>
-<a href="publications.html">Publications</a>
-<a href="teaching.html">Teaching</a>
-<a href="projects.html">Projects</a>
-<a href="supervision.html">Supervision</a>
-</div>
-</nav>
-</header>
+    <p class="role">
+      Lecturer-Researcher — UCO Angers<br>
+      Institute of Applied Mathematics (MAI)<br>
+      Member of LMBA, Université Bretagne Sud
+    </p>
 
-<section class="hero">
-<div class="container">
+    <p class="contact">
+      <a href="mailto:essoham.ali@univ-ubs.fr">
+        Email: essoham.ali@univ-ubs.fr
+      </a>
+    </p>
 
-<h1>Essoham Ali</h1>
-
-<p>
-Lecturer–Researcher in Statistics <br>
-Institute of Applied Mathematics (MAI), UCO Angers <br>
-Member of LMBA – Université Bretagne Sud
-</p>
-
-<p>
-📧 essoham.ali@univ-ubs.fr
-</p>
-
-</div>
-</section>
-
-<section class="container">
-
-<h2>Research Profile</h2>
-
-<div class="card">
-
-<p>
-My research focuses on statistical modelling and inference for complex data,
-with a particular emphasis on count data models,
-zero-inflated processes,
-and high-dimensional statistical methods.
-</p>
-
-<p>
-I develop probabilistically grounded statistical models and
-regularized estimation procedures designed to handle structured
-and high-dimensional datasets.
-</p>
-
-<p>
-My work combines mathematical statistics,
-statistical learning,
-and computational statistics,
-with applications in health sciences,
-economics,
-and data-driven scientific studies.
-</p>
-
+    
+  </div>
 </div>
 
-<h2>Research Interests</h2>
+<div class="hero-right">
 
-<div class="grid">
+<h1>Research Profile</h1>
 
-<div class="card">
-<h3>Statistical Modelling</h3>
+<p>
+I develop statistical methodology in <strong>applied statistics</strong>
+and <strong>statistical learning</strong> for the analysis of
+<strong>complex data</strong>, with a particular focus on
+count data and zero-inflated models.
+</p>
+
+<p>
+My research lies at the interface between statistical modelling,
+robust inference, and applied data science, motivated by applications
+in health sciences, economics, and real-world data analysis.
+</p>
+
+<p>
+Recent work develops interpretable models for dependent count data
+and robust methods for variable selection and inference in
+high-dimensional settings.
+</p>
 <ul>
-<li>Count data models</li>
-<li>Zero-inflated models</li>
-<li>Multivariate dependence modelling</li>
-</ul>
-</div>
+     <div class="section">
+  <h2>Research Interests</h2>
 
-<div class="card">
-<h3>High-Dimensional Inference</h3>
-<ul>
-<li>Penalized regression</li>
-<li>Variable selection</li>
-<li>Robust statistical inference</li>
-</ul>
+  <p class="research-interests">
+    Applied statistics, Statistical learning, Count data modelling,
+    Zero-inflated models, Regularized estimation, Penalized regression,
+    Robust statistics, High-dimensional inference,
+    Multivariate dependence modelling, Latent variable models,
+    Sufficient dimension reduction, Computational statistics,
+    Data science applications in health and economics.
+  </p>
 </div>
-
-<div class="card">
-<h3>Computational Statistics</h3>
-<ul>
-<li>Simulation studies</li>
-<li>Numerical estimation</li>
-<li>Statistical learning algorithms</li>
-</ul>
-</div>
+    </ul>
 
 </div>
 
-</section>
 
-<footer>
-© 2026 Essoham Ali — Academic Website
-</footer>
 
-</body>
-</html>
