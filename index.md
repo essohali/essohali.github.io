@@ -92,32 +92,6 @@ inference procedures.
 
 </div>
 
-
-<div class="section">
-<h2>Selected Publications</h2>
-
-<p>
-<strong>Ali, E., Lukman, A. F., & Manou-Abi, S. M.</strong><br>
-Regularized estimation for right-censored zero-inflated Poisson regression:
-methods and applications to health data.<br>
-<em>Computational Statistics</em>, 2026.
-</p>
-
-<p>
-<strong>Ali, E., & Lukman, A. F.</strong><br>
-Penalized zero-inflated Bell regression for multicollinearity in count data.<br>
-<em>Journal of Applied Statistics</em>, 2025.
-</p>
-
-<p>
-<strong>Ali, E., & Pho, K. H.</strong><br>
-A new zero-inflated Bell model for count data with applications.<br>
-<em>Communications in Statistics – Simulation and Computation</em>, 2025.
-</p>
-
-</div>
-
-
 <div class="section">
 <h2>Computational Statistics and Data Science</h2>
 
