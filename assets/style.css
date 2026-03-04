@@ -217,6 +217,44 @@ gap:25px;
 margin-top:20px;
 }
 
+.software-cards{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(240px,1fr));
+gap:30px;
+margin-top:25px;
+}
+
+.software-card{
+background:white;
+border-radius:12px;
+padding:30px;
+text-align:center;
+text-decoration:none;
+color:#333;
+box-shadow:0 4px 12px rgba(0,0,0,0.08);
+transition:all 0.25s ease;
+}
+
+.software-card:hover{
+transform:translateY(-6px);
+box-shadow:0 10px 25px rgba(0,0,0,0.12);
+}
+
+.software-card img{
+height:65px;
+margin-bottom:15px;
+}
+
+.software-card h3{
+font-size:20px;
+margin-bottom:10px;
+}
+
+.software-card p{
+font-size:15px;
+color:#666;
+}
+
 .software-card{
 background:white;
 border:1px solid #e5e5e5;
