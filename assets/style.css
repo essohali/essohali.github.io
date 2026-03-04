@@ -38,12 +38,12 @@ a:hover { text-decoration: underline; }
 .brand-affil { margin-top: 6px; color: #444; }
 .brand-links { margin-top: 8px; color: #444; }
 
-.menu {
+/* .menu {
   display: flex;
   gap: 18px;
   flex-wrap: wrap;
   padding-top: 8px;
-}
+} */
 
 /* Dropdown */
 
