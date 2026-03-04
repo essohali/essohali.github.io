@@ -89,38 +89,30 @@ health sciences, economics, and data science.
 
 <h2>Software & Code</h2>
 
-<div class="software-grid">
+<div class="software-cards">
 
-<a href="https://github.com/TON-GITHUB/R">
-<div class="software-item">
-<img src="/assets/images/r.png" alt="R">
-<p class="software-title">R</p>
-<p class="software-desc">Statistical packages</p>
-</div>
+<a href="https://github.com/TON-GITHUB/R-project" class="software-card">
+<img src="/assets/images/rstudio.png" alt="R">
+<h3>R</h3>
+<p>Statistical packages and reproducible research</p>
 </a>
 
-<a href="https://github.com/TON-GITHUB/python">
-<div class="software-item">
+<a href="https://github.com/TON-GITHUB/python-project" class="software-card">
 <img src="/assets/images/python.png" alt="Python">
-<p class="software-title">Python</p>
-<p class="software-desc">Statistical computing</p>
-</div>
+<h3>Python</h3>
+<p>Statistical computing and machine learning</p>
 </a>
 
-<a href="https://github.com/TON-GITHUB/shiny">
-<div class="software-item">
+<a href="https://github.com/TON-GITHUB/shiny-project" class="software-card">
 <img src="/assets/images/shiny.png" alt="Shiny">
-<p class="software-title">Shiny</p>
-<p class="software-desc">Interactive applications</p>
-</div>
+<h3>Shiny Apps</h3>
+<p>Interactive statistical applications</p>
 </a>
 
-<a href="https://github.com/TON-GITHUB">
-<div class="software-item">
+<a href="https://github.com/TON-GITHUB" class="software-card">
 <img src="/assets/images/github.png" alt="GitHub">
-<p class="software-title">GitHub</p>
-<p class="software-desc">Research repositories</p>
-</div>
+<h3>GitHub</h3>
+<p>Research code and open-source projects</p>
 </a>
 
 </div>
