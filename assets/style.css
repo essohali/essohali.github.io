@@ -286,3 +286,8 @@ font-size:18px;
 font-size:14px;
 color:#666;
 }
+.sidebar{
+background:#f2f4f7;
+padding:40px;
+border-right:1px solid #e5e7eb;
+}
