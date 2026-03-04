@@ -164,3 +164,63 @@ margin-top:25px;
     grid-template-columns:1fr;
   }
 }
+.software-section{
+grid-column:1 / -1;
+margin-top:50px;
+}
+
+.software-section h2{
+text-align:center;
+margin-bottom:35px;
+}
+
+.software-cards{
+display:grid;
+grid-template-columns:repeat(4,1fr);
+gap:30px;
+max-width:900px;
+margin:auto;
+}
+
+.software-card{
+background:white;
+border-radius:14px;
+padding:30px 20px;
+text-align:center;
+text-decoration:none;
+color:#333;
+border:1px solid #e8e8e8;
+transition:all 0.25s ease;
+}
+
+.software-card:hover{
+transform:translateY(-6px);
+box-shadow:0 12px 30px rgba(0,0,0,0.08);
+}
+
+.software-card img{
+height:70px;
+margin-bottom:12px;
+}
+
+.software-card h3{
+font-size:20px;
+margin-bottom:6px;
+}
+
+.software-card p{
+font-size:14px;
+color:#666;
+line-height:1.5;
+}
+@media (max-width:900px){
+.software-cards{
+grid-template-columns:repeat(2,1fr);
+}
+}
+
+@media (max-width:500px){
+.software-cards{
+grid-template-columns:1fr;
+}
+}
