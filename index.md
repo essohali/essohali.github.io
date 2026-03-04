@@ -15,13 +15,11 @@ Lecturer–Researcher in Statistics
 </p>
 
 <p class="affiliation">
-Institute of Applied Mathematics (MAI)<br>
-UCO Angers
+Institute of Applied Mathematics (MAI) UCO Angers
 </p>
 
 <p class="affiliation">
-Member of LMBA<br>
-Université Bretagne Sud
+Member of LMBA, Université Bretagne Sud
 </p>
 
 <p class="contact">
@@ -29,7 +27,13 @@ Université Bretagne Sud
 essoham.ali@univ-ubs.fr
 </a>
 </p>
+<h3>Links</h3>
 
+<p>
+<a href="https://github.com/TON-GITHUB">GitHub</a><br>
+<a href="https://scholar.google.com">Google Scholar</a><br>
+<a href="/cv.pdf">Curriculum Vitae</a>
+</p>
 </aside>
 
 
