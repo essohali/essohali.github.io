@@ -22,6 +22,10 @@ a:hover { text-decoration: underline; }
   align-items: center;
 }
 
+.site-name {
+  font-weight: bold;
+  font-size: 22px;
+}
 /* .topbar-inner {
   display: flex;
   justify-content: space-between;
