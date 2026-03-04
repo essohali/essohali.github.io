@@ -30,6 +30,8 @@ essoham.ali@univ-ubs.fr
 </a>
 </p>
 
+</aside>
+
 
 <!-- RIGHT COLUMN -->
 <main class="content">
