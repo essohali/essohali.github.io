@@ -30,7 +30,6 @@ essoham.ali@univ-ubs.fr
 <h3>Links</h3>
 
 <p>
-<a href="https://github.com/TON-GITHUB">GitHub</a><br>
 <a href="https://scholar.google.com">Google Scholar</a><br>
 <a href="/cv.pdf">Curriculum Vitae</a>
 </p>
