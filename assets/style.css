@@ -73,3 +73,57 @@ a:hover { text-decoration: underline; }
 @media (max-width: 850px) {
   .hero { grid-template-columns: 1fr; }
 }
+
+.home-container{
+display:grid;
+grid-template-columns: 320px 1fr;
+gap:60px;
+margin-top:40px;
+}
+
+.left-column{
+font-size:16px;
+}
+
+.name{
+font-size:28px;
+font-weight:600;
+margin-bottom:10px;
+}
+
+.role{
+color:#444;
+line-height:1.6;
+}
+
+.contact{
+margin-top:15px;
+}
+
+.right-column{
+max-width:700px;
+line-height:1.7;
+}
+
+.right-column h2{
+margin-top:35px;
+font-size:22px;
+border-bottom:1px solid #ddd;
+padding-bottom:5px;
+}
+
+.software-logos{
+display:flex;
+gap:25px;
+margin-top:15px;
+align-items:center;
+}
+
+.software-logos img{
+height:55px;
+transition:0.2s;
+}
+
+.software-logos img:hover{
+transform:scale(1.1);
+}
