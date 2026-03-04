@@ -9,59 +9,149 @@ title: Home
     <p class="name">Essoham Ali</p>
 
     <p class="role">
-      Lecturer-Researcher — UCO Angers<br>
-      Institute of Applied Mathematics (MAI)<br>
-      Member of LMBA, Université Bretagne Sud
+      Lecturer–Researcher in Statistics<br>
+      Institute of Applied Mathematics (MAI), UCO Angers<br>
+      Member of LMBA – Université Bretagne Sud
     </p>
 
     <p class="contact">
-      <a href="mailto:essoham.ali@univ-ubs.fr">
-        Email: essoham.ali@univ-ubs.fr
+      📧 <a href="mailto:essoham.ali@univ-ubs.fr">
+      essoham.ali@univ-ubs.fr
       </a>
     </p>
 
-    
   </div>
 </div>
+
 
 <div class="hero-right">
 
 <h1>Research Profile</h1>
 
 <p>
-I develop statistical methodology in <strong>applied statistics</strong>
-and <strong>statistical learning</strong> for the analysis of
-<strong>complex data</strong>, with a particular focus on
-count data and zero-inflated models.
+My research focuses on statistical modelling and inference for complex data,
+with a particular emphasis on count data models, zero-inflated processes,
+and high-dimensional statistical methods.
 </p>
 
 <p>
-My research lies at the interface between statistical modelling,
-robust inference, and applied data science, motivated by applications
-in health sciences, economics, and real-world data analysis.
+I develop probabilistically grounded statistical models and regularized
+estimation procedures designed to handle structured and high-dimensional
+datasets frequently encountered in modern applications. A central theme
+of my work is the modelling of dependent count data through flexible
+models capable of capturing overdispersion, excess zeros, and complex
+dependence structures.
 </p>
 
 <p>
-Recent work develops interpretable models for dependent count data
-and robust methods for variable selection and inference in
-high-dimensional settings.
+From a methodological perspective, my research combines tools from
+mathematical statistics, statistical learning, and computational statistics.
+I investigate penalized estimation and variable selection methods in
+high-dimensional settings and study the theoretical properties of the
+resulting estimators, including consistency, robustness, and oracle properties.
 </p>
+
+<p>
+These methodological developments are motivated by applications in
+health sciences, economics, and data-driven scientific studies, where
+modern datasets require interpretable statistical models and reliable
+inference procedures.
+</p>
+
+
+<div class="section">
+<h2>Research Interests</h2>
+
+<h3>Statistical Modelling</h3>
 <ul>
-     <div class="section">
-  <h2>Research Interests</h2>
+<li>Count data models</li>
+<li>Zero-inflated and mixture models</li>
+<li>Multivariate dependence modelling</li>
+</ul>
 
-  <p class="research-interests">
-    Applied statistics, Statistical learning, Count data modelling,
-    Zero-inflated models, Regularized estimation, Penalized regression,
-    Robust statistics, High-dimensional inference,
-    Multivariate dependence modelling, Latent variable models,
-    Sufficient dimension reduction, Computational statistics,
-    Data science applications in health and economics.
-  </p>
+<h3>High-Dimensional Inference</h3>
+<ul>
+<li>Penalized regression</li>
+<li>Variable selection</li>
+<li>Robust statistical inference</li>
+</ul>
+
+<h3>Computational Statistics</h3>
+<ul>
+<li>Simulation-based statistical methods</li>
+<li>Numerical estimation procedures</li>
+<li>Statistical learning algorithms</li>
+</ul>
+
+<h3>Applications</h3>
+<ul>
+<li>Health sciences</li>
+<li>Economics</li>
+<li>Data science</li>
+</ul>
+
 </div>
-    </ul>
+
+
+<div class="section">
+<h2>Selected Publications</h2>
+
+<p>
+<strong>Ali, E., Lukman, A. F., & Manou-Abi, S. M.</strong><br>
+Regularized estimation for right-censored zero-inflated Poisson regression:
+methods and applications to health data.<br>
+<em>Computational Statistics</em>, 2026.
+</p>
+
+<p>
+<strong>Ali, E., & Lukman, A. F.</strong><br>
+Penalized zero-inflated Bell regression for multicollinearity in count data.<br>
+<em>Journal of Applied Statistics</em>, 2025.
+</p>
+
+<p>
+<strong>Ali, E., & Pho, K. H.</strong><br>
+A new zero-inflated Bell model for count data with applications.<br>
+<em>Communications in Statistics – Simulation and Computation</em>, 2025.
+</p>
 
 </div>
 
 
+<div class="section">
+<h2>Computational Statistics and Data Science</h2>
 
+<p>
+Part of my research also involves the development of computational tools
+and simulation studies for statistical models used in the analysis of
+complex data.
+</p>
+
+<p>Example materials available on this website include:</p>
+
+<ul>
+<li>simulation studies for zero-inflated models</li>
+<li>high-dimensional regression experiments</li>
+<li>statistical learning examples implemented in R and Python</li>
+</ul>
+
+<p>
+These examples illustrate how modern statistical methodology can be
+implemented and evaluated through reproducible computational experiments.
+</p>
+
+</div>
+
+
+<div class="section">
+<h2>Keywords</h2>
+
+<p>
+Mathematical Statistics • Statistical Learning • Computational Statistics •
+High-Dimensional Inference • Count Data Models • Probability Models •
+Data Science
+</p>
+
+</div>
+
+</div>
