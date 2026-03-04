@@ -20,8 +20,6 @@ a:hover { text-decoration: underline; }
   display: flex;
   justify-content: space-between;
   align-items: center;
-  /* flex-direction: column; */
-  gap: 12px;
 }
 
 /* .topbar-inner {
@@ -30,10 +28,10 @@ a:hover { text-decoration: underline; }
   align-items: center;
 } */
 
-.menu {
+/* .menu {
   display: flex;
   gap: 20px;
-}
+} */
 
 .brand-title { font-size: 2rem; font-weight: 700; }
 .brand-sub { margin-top: 2px; font-weight: 600; color: #333; }
