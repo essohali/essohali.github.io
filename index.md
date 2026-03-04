@@ -30,26 +30,6 @@ essoham.ali@univ-ubs.fr
 </a>
 </p>
 
-<h3>Software</h3>
-
-<div class="software-icons">
-
-<a href="https://github.com/TON-GITHUB/R-project">
-<img src="/assets/images/rstudio.png" alt="RStudio">
-</a>
-
-<a href="https://github.com/TON-GITHUB/python-project">
-<img src="/assets/images/python.png" alt="Python">
-</a>
-
-<a href="https://github.com/TON-GITHUB/shiny-project">
-<img src="/assets/images/shiny.png" alt="Shiny">
-</a>
-
-</div>
-
-</aside>
-
 
 <!-- RIGHT COLUMN -->
 <main class="content">
