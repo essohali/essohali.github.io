@@ -3,17 +3,25 @@ layout: default
 title: Home
 ---
 
-<div class="home-container">
+<div class="page-container">
 
 <!-- LEFT COLUMN -->
-<div class="left-column">
+<aside class="sidebar">
 
 <h1 class="name">Essoham Ali</h1>
 
-<p class="role">
-Lecturer–Researcher in Statistics<br>
-Institute of Applied Mathematics (MAI), UCO Angers<br>
-Member of LMBA – Université Bretagne Sud
+<p class="position">
+Lecturer–Researcher in Statistics
+</p>
+
+<p class="affiliation">
+Institute of Applied Mathematics (MAI)<br>
+UCO Angers
+</p>
+
+<p class="affiliation">
+Member of LMBA<br>
+Université Bretagne Sud
 </p>
 
 <p class="contact">
@@ -22,31 +30,48 @@ essoham.ali@univ-ubs.fr
 </a>
 </p>
 
+<h3>Software</h3>
+
+<div class="software-icons">
+
+<a href="https://github.com/TON-GITHUB/R-project">
+<img src="/assets/images/rstudio.png" alt="RStudio">
+</a>
+
+<a href="https://github.com/TON-GITHUB/python-project">
+<img src="/assets/images/python.png" alt="Python">
+</a>
+
+<a href="https://github.com/TON-GITHUB/shiny-project">
+<img src="/assets/images/shiny.png" alt="Shiny">
+</a>
+
 </div>
+
+</aside>
 
 
 <!-- RIGHT COLUMN -->
-<div class="right-column">
+<main class="content">
 
-<h2>Research Profile</h2>
+<h1>Research Profile</h1>
 
 <p>
 My research focuses on statistical modelling and inference for complex
-data, with particular emphasis on count data models,
-zero-inflated processes, and high-dimensional statistical methods.
+data, with particular emphasis on count data models, zero-inflated
+processes, and high-dimensional statistical methods.
 </p>
 
 <p>
 I develop probabilistically grounded statistical models and regularized
-estimation procedures designed for structured and high-dimensional data.
-My work investigates flexible models capable of capturing overdispersion,
-excess zeros, and dependence structures in multivariate count data.
+estimation procedures designed to handle structured and high-dimensional
+datasets frequently encountered in modern applications.
 </p>
 
 <p>
-Methodologically, my research combines mathematical statistics,
-statistical learning, and computational statistics, with applications
-in health sciences, economics, and data science.
+Methodologically, my research combines tools from mathematical statistics,
+statistical learning, and computational statistics, with applications in
+health sciences, economics, and data science.
 </p>
 
 
@@ -57,30 +82,10 @@ in health sciences, economics, and data science.
 <li>Zero-inflated and mixture models</li>
 <li>High-dimensional statistical inference</li>
 <li>Penalized regression and variable selection</li>
-<li>Robust statistical methods</li>
+<li>Robust statistical inference</li>
 <li>Computational statistics</li>
 </ul>
 
-
-<h2>Software & Code</h2>
-
-<div class="software-logos">
-
-<a href="https://github.com/TON-GITHUB/R-project">
-<img src="/assets/images/rstudio.png" alt="RStudio">
-</a>
-
-<a href="https://github.com/TON-GITHUB/python-project">
-<img src="/assets/images/python.png" alt="Python">
-</a>
-
-<a href="https://github.com/TON-GITHUB/shiny-app">
-<img src="/assets/images/shiny.png" alt="Shiny">
-</a>
-
-</div>
-
-
-</div>
+</main>
 
 </div>
