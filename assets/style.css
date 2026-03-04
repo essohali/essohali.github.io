@@ -37,6 +37,14 @@ a:hover { text-decoration: underline; }
 /* Dropdown */
 
 .dropdown { position: relative; }
+.dropdown > span {
+  color: blue;          
+  cursor: pointer;     
+}
+
+.dropdown > span:hover {
+  text-decoration: underline;
+}
 
 .dropdown-content {
   display: none;
