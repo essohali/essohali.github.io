@@ -27,12 +27,14 @@ Member of LMBA, Université Bretagne Sud
 essoham.ali@univ-ubs.fr
 </a>
 </p>
+
 <h3>Links</h3>
 
 <p>
 <a href="https://scholar.google.com">Google Scholar</a><br>
 <a href="/cv.pdf">Curriculum Vitae</a>
 </p>
+
 </aside>
 
 
@@ -59,7 +61,6 @@ statistical learning, and computational statistics, with applications in
 health sciences, economics, and data science.
 </p>
 
-
 <h2>Research Interests</h2>
 
 <ul>
@@ -71,17 +72,10 @@ health sciences, economics, and data science.
 <li>Computational statistics</li>
 </ul>
 
-
-<main class="content">
-
-<h2>Research Interests</h2>
-
-<ul>
-...
-</ul>
-
 </main>
 
+
+<!-- SOFTWARE SECTION FULL WIDTH -->
 <section class="software-section">
 
 <h2>Software & Code</h2>
@@ -89,25 +83,25 @@ health sciences, economics, and data science.
 <div class="software-cards">
 
 <a href="https://github.com/TON-GITHUB/R-project" class="software-card">
-<img src="/assets/images/rstudio.png">
+<img src="/assets/images/rstudio.png" alt="R">
 <h3>R</h3>
 <p>Statistical software and reproducible research</p>
 </a>
 
 <a href="https://github.com/TON-GITHUB/python-project" class="software-card">
-<img src="/assets/images/python.png">
+<img src="/assets/images/python.png" alt="Python">
 <h3>Python</h3>
 <p>Statistical computing and machine learning</p>
 </a>
 
 <a href="https://github.com/TON-GITHUB/shiny-project" class="software-card">
-<img src="/assets/images/shiny.png">
+<img src="/assets/images/shiny.png" alt="Shiny">
 <h3>Shiny Apps</h3>
 <p>Interactive statistical applications</p>
 </a>
 
 <a href="https://github.com/TON-GITHUB" class="software-card">
-<img src="/assets/images/github.png">
+<img src="/assets/images/github.png" alt="GitHub">
 <h3>GitHub</h3>
 <p>Research code and open-source projects</p>
 </a>
@@ -115,7 +109,5 @@ health sciences, economics, and data science.
 </div>
 
 </section>
-
-</main>
 
 </div>
