@@ -80,7 +80,7 @@ health sciences, economics, and data science.
 
 <div class="software-cards">
 
-<a href="https://github.com/TON-GITHUB/R-project" class="software-card">
+<a href="https://essohali.github.io/r-project/report.html" class="software-card">
   <img src="assets/images/rstudio.png" alt="R">
   <h3>R</h3>
   <p>Statistical software and reproducible research</p>
