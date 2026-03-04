@@ -17,11 +17,9 @@ Lecturer–Researcher in Statistics
 <p class="affiliation">
 Institute of Applied Mathematics (MAI) UCO Angers
 </p>
-
 <p class="affiliation">
 Member of LMBA, Université Bretagne Sud
 </p>
-
 <p class="contact">
 📧 <a href="mailto:essoham.ali@univ-ubs.fr">
 essoham.ali@univ-ubs.fr
@@ -83,9 +81,9 @@ health sciences, economics, and data science.
 <div class="software-cards">
 
 <a href="https://github.com/TON-GITHUB/R-project" class="software-card">
-<img src="/assets/images/rstudio.png" alt="R">
-<h3>R</h3>
-<p>Statistical software and reproducible research</p>
+  <img src="images/rstudio.png" alt="R">
+  <h3>R</h3>
+  <p>Statistical software and reproducible research</p>
 </a>
 
 <a href="https://github.com/TON-GITHUB/python-project" class="software-card">
