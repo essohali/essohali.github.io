@@ -175,6 +175,13 @@ gap:15px;
 margin-top:10px;
 }
 
+.software-item img{
+height:55px;
+width:auto;
+display:block;
+margin:auto;
+}
+
 .software-icons img{
 height:45px;
 transition:0.2s;
