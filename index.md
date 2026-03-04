@@ -81,24 +81,24 @@ health sciences, economics, and data science.
 <div class="software-cards">
 
 <a href="https://essohali.github.io/r-project/report.html" class="software-card">
-  <img src="assets/images/rstudio.png" alt="R">
-  <h3>R</h3>
-  <p>Statistical software and reproducible research</p>
+<img src="/assets/images/rstudio.png" alt="R">
+<h3>R</h3>
+<p>Statistical software and reproducible research</p>
 </a>
 
-<a href="https://github.com/TON-GITHUB/python-project" class="software-card">
+<a href="https://github.com/essohali/python-project" class="software-card">
 <img src="/assets/images/python.png" alt="Python">
 <h3>Python</h3>
 <p>Statistical computing and machine learning</p>
 </a>
 
-<a href="https://github.com/TON-GITHUB/shiny-project" class="software-card">
+<a href="https://github.com/essohali/shiny-project" class="software-card">
 <img src="/assets/images/shiny.png" alt="Shiny">
 <h3>Shiny Apps</h3>
 <p>Interactive statistical applications</p>
 </a>
 
-<a href="https://github.com/TON-GITHUB" class="software-card">
+<a href="https://github.com/essohali" class="software-card">
 <img src="/assets/images/github.png" alt="GitHub">
 <h3>GitHub</h3>
 <p>Research code and open-source projects</p>
@@ -107,5 +107,4 @@ health sciences, economics, and data science.
 </div>
 
 </section>
-
 </div>
