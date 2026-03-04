@@ -209,3 +209,42 @@ margin-top:35px;
 border-bottom:1px solid #ddd;
 padding-bottom:5px;
 }
+
+.software-cards{
+display:grid;
+grid-template-columns:repeat(auto-fit, minmax(200px,1fr));
+gap:25px;
+margin-top:20px;
+}
+
+.software-card{
+background:white;
+border:1px solid #e5e5e5;
+border-radius:10px;
+padding:20px;
+text-align:center;
+text-decoration:none;
+color:#333;
+transition:all 0.25s ease;
+box-shadow:0 2px 6px rgba(0,0,0,0.05);
+}
+
+.software-card:hover{
+transform:translateY(-4px);
+box-shadow:0 8px 20px rgba(0,0,0,0.1);
+}
+
+.software-card img{
+height:60px;
+margin-bottom:10px;
+}
+
+.software-card h3{
+margin:10px 0 5px 0;
+font-size:18px;
+}
+
+.software-card p{
+font-size:14px;
+color:#666;
+}
