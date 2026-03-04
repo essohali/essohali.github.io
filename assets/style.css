@@ -22,6 +22,17 @@ a:hover { text-decoration: underline; }
   gap: 12px;
 }
 
+.topbar-inner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.menu {
+  display: flex;
+  gap: 20px;
+}
+
 .brand-title { font-size: 2rem; font-weight: 700; }
 .brand-sub { margin-top: 2px; font-weight: 600; color: #333; }
 .brand-affil { margin-top: 6px; color: #444; }
