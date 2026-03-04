@@ -38,12 +38,13 @@ a:hover { text-decoration: underline; }
 
 .dropdown { position: relative; }
 
-.dropdown span {
-  color: #1a5fb4;          
-  cursor: pointer;     
+a, .dropdown > span {
+  color: #1a5fb4;
+  text-decoration: none;
+  cursor: pointer;
 }
 
-.dropdown span:hover {
+a:hover, .dropdown > span:hover {
   text-decoration: underline;
 }
 
