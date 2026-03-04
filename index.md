@@ -86,6 +86,45 @@ health sciences, economics, and data science.
 <li>Computational statistics</li>
 </ul>
 
+
+<h2>Software & Code</h2>
+
+<div class="software-grid">
+
+<a href="https://github.com/TON-GITHUB/R">
+<div class="software-item">
+<img src="/assets/images/r.png" alt="R">
+<p class="software-title">R</p>
+<p class="software-desc">Statistical packages</p>
+</div>
+</a>
+
+<a href="https://github.com/TON-GITHUB/python">
+<div class="software-item">
+<img src="/assets/images/python.png" alt="Python">
+<p class="software-title">Python</p>
+<p class="software-desc">Statistical computing</p>
+</div>
+</a>
+
+<a href="https://github.com/TON-GITHUB/shiny">
+<div class="software-item">
+<img src="/assets/images/shiny.png" alt="Shiny">
+<p class="software-title">Shiny</p>
+<p class="software-desc">Interactive applications</p>
+</div>
+</a>
+
+<a href="https://github.com/TON-GITHUB">
+<div class="software-item">
+<img src="/assets/images/github.png" alt="GitHub">
+<p class="software-title">GitHub</p>
+<p class="software-desc">Research repositories</p>
+</div>
+</a>
+
+</div>
+
 </main>
 
 </div>
