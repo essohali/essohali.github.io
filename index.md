@@ -72,35 +72,49 @@ health sciences, economics, and data science.
 </ul>
 
 
+<main class="content">
+
+<h2>Research Interests</h2>
+
+<ul>
+...
+</ul>
+
+</main>
+
+<section class="software-section">
+
 <h2>Software & Code</h2>
 
 <div class="software-cards">
 
 <a href="https://github.com/TON-GITHUB/R-project" class="software-card">
-<img src="/assets/images/rstudio.png" alt="R">
+<img src="/assets/images/rstudio.png">
 <h3>R</h3>
-<p>Statistical packages and reproducible research</p>
+<p>Statistical software and reproducible research</p>
 </a>
 
 <a href="https://github.com/TON-GITHUB/python-project" class="software-card">
-<img src="/assets/images/python.png" alt="Python">
+<img src="/assets/images/python.png">
 <h3>Python</h3>
 <p>Statistical computing and machine learning</p>
 </a>
 
 <a href="https://github.com/TON-GITHUB/shiny-project" class="software-card">
-<img src="/assets/images/shiny.png" alt="Shiny">
+<img src="/assets/images/shiny.png">
 <h3>Shiny Apps</h3>
 <p>Interactive statistical applications</p>
 </a>
 
 <a href="https://github.com/TON-GITHUB" class="software-card">
-<img src="/assets/images/github.png" alt="GitHub">
+<img src="/assets/images/github.png">
 <h3>GitHub</h3>
 <p>Research code and open-source projects</p>
 </a>
 
 </div>
+
+</section>
 
 </main>
 
