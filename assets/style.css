@@ -7,7 +7,7 @@ body {
 }
 
 a { color: black; text-decoration: none; }
-a:hover { text-decoration: underline; color: #134a8a; }
+a:hover { color: #134a8a; text-decoration: underline; }
 
 .container { padding: 18px 18px 40px 18px; }
 
