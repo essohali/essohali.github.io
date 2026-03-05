@@ -83,7 +83,7 @@ health sciences, economics, and data science.
 
 <div class="software-cards">
 
-<a href="/r-project.html" class="software-card">
+<a href="r-project.html" class="software-card">
 <img src="/assets/images/rstudio.png" alt="R">
 <h3>R</h3>
 <p>Statistical software and reproducible research</p>
