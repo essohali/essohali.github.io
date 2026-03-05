@@ -6,9 +6,19 @@ body {
   color: #1a1a1a;
 }
 
-a { color: black; text-decoration: none; }
-a:hover { color: #134a8a; text-decoration: underline; }
+/* a { color: black; text-decoration: none; }
+a:hover { color: #134a8a; text-decoration: underline; } */
 
+a, .dropdown > span {
+  color: #1a5fb4;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+a:hover, .dropdown > span:hover {
+  color: #134a8a;
+  text-decoration: underline;
+}
 .container { padding: 18px 18px 40px 18px; }
 
 /* Top bar */
@@ -26,11 +36,6 @@ a:hover { color: #134a8a; text-decoration: underline; }
   font-weight: bold !important;
   font-size: 22px !important;
 }
-/* .topbar-inner {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-} */
 
 .menu {
   display: flex;
@@ -43,18 +48,11 @@ a:hover { color: #134a8a; text-decoration: underline; }
 .brand-affil { margin-top: 6px; color: #444; }
 .brand-links { margin-top: 8px; color: #444; }
 
-/* .menu {
-  display: flex;
-  gap: 18px;
-  flex-wrap: wrap;
-  padding-top: 8px;
-} */
-
 /* Dropdown */
 
 .dropdown { position: relative; }
 
-a, .dropdown > span {
+/* a, .dropdown > span {
   color: #1a5fb4;
   text-decoration: none;
   cursor: pointer;
@@ -62,7 +60,7 @@ a, .dropdown > span {
 
 a:hover, .dropdown > span:hover {
   text-decoration: underline;
-}
+} */
 
 .dropdown-content {
   display: none;
