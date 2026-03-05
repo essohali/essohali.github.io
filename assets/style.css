@@ -190,7 +190,7 @@ margin-top:15px;
 }
 .software-section{
 grid-column:1 / -1;
-margin-top:50px;
+/* margin-top:50px; */
 }
 
 .software-section h2{
