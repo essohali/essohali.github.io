@@ -6,8 +6,8 @@ body {
   color: #1a1a1a;
 }
 
-a { color: #1a5fb4; text-decoration: none; }
-a:hover { text-decoration: underline; }
+a { color: #000; text-decoration: none; }
+a:hover { text-decoration: underline; color: #134a8a; }
 
 .container { padding: 18px 18px 40px 18px; }
 
