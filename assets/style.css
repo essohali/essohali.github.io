@@ -10,7 +10,7 @@ body {
 a:hover { color: #134a8a; text-decoration: underline; } */
 
 a, .dropdown > span {
-  color: black;
+  color: #000000;
   text-decoration: none;
   cursor: pointer;
 }
