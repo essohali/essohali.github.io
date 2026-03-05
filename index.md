@@ -1,11 +1,13 @@
 ---
+
 layout: default
 title: Home
----
+-----------
 
 <div class="page-container">
 
 <!-- LEFT COLUMN -->
+
 <aside class="sidebar">
 
 <h1 class="name">Essoham Ali</h1>
@@ -17,9 +19,11 @@ Lecturer–Researcher in Statistics
 <p class="affiliation">
 Institute of Applied Mathematics (MAI) UCO Angers
 </p>
+
 <p class="affiliation">
 Member of LMBA, Université Bretagne Sud
 </p>
+
 <p class="contact">
 📧 <a href="mailto:essoham.ali@univ-ubs.fr">
 essoham.ali@univ-ubs.fr
@@ -35,8 +39,8 @@ essoham.ali@univ-ubs.fr
 
 </aside>
 
-
 <!-- RIGHT COLUMN -->
+
 <main class="content">
 
 <h1>Research Profile</h1>
@@ -72,15 +76,15 @@ health sciences, economics, and data science.
 
 </main>
 
-
 <!-- SOFTWARE SECTION FULL WIDTH -->
+
 <section class="software-section">
 
 <h2>Software & Code</h2>
 
 <div class="software-cards">
 
-<a href="https://essohali.github.io/r-project/report.html" class="software-card">
+<a href="/r-project.html" class="software-card">
 <img src="/assets/images/rstudio.png" alt="R">
 <h3>R</h3>
 <p>Statistical software and reproducible research</p>
@@ -107,4 +111,5 @@ health sciences, economics, and data science.
 </div>
 
 </section>
+
 </div>
