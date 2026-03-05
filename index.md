@@ -72,6 +72,7 @@ health sciences, economics, and data science.
 <li>Robust statistical inference</li>
 <li>Computational statistics</li>
 </ul>
+</main>
 
 <!-- SOFTWARE SECTION FULL WIDTH -->
 
@@ -110,4 +111,3 @@ health sciences, economics, and data science.
 </section>
 
 </div>
-</main>
