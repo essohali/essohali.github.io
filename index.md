@@ -73,8 +73,6 @@ health sciences, economics, and data science.
 <li>Computational statistics</li>
 </ul>
 
-</main>
-
 <!-- SOFTWARE SECTION FULL WIDTH -->
 
 <section class="software-section">
@@ -112,3 +110,4 @@ health sciences, economics, and data science.
 </section>
 
 </div>
+</main>
