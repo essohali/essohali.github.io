@@ -80,11 +80,23 @@ a:hover, .dropdown > span:hover {
 /* Sidebar */
 
 .sidebar{
+  background: #f2f4f7;
+  padding: 35px;
+  border-radius: 12px;
+  border: 1px solid #e5e7eb;
+  overflow: hidden;
+}
+
+.content{
+  min-width: 0;
+}
+
+/* .sidebar{
   background:#f2f4f7;
   padding:35px;
   border-radius:12px;
   border:1px solid #e5e7eb;
-}
+} */
 
 /* .sidebar img{
   width: 180px !important;
