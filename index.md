@@ -9,7 +9,7 @@ title: Home
 
 <aside class="sidebar">
   
-<img src="assets/images/photo-essoham-Ali.jpeg" alt="Essoham Ali" class="">
+<!-- <img src="assets/images/photo-essoham-Ali.jpeg" alt="Essoham Ali" class=""> -->
 
 <h1 class="name">Essoham Ali</h1>
 
