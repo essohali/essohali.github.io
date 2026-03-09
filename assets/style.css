@@ -86,23 +86,23 @@ a:hover, .dropdown > span:hover {
   border:1px solid #e5e7eb;
 }
 
-.sidebar img{
+/* .sidebar img{
   width: 180px !important;
   max-width: 100% !important;
   height: auto !important;
   display: block;
   margin: 15px auto;
   border-radius: 50%;
-}
+} */
 
-/* .profile-photo{
+.profile-photo{
   width:100%;
   max-width:180px;
   height:auto;
   display:block;
   margin:15px auto;
   border-radius:50%;
-} */
+}
 
 .name{
   font-size:26px;
