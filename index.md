@@ -92,7 +92,7 @@ I am also interested in dimension reduction and semiparametric regression models
 <p>Statistical computing and machine learning</p>
 </a>
 
-<a href="https://github.com/essohali/shiny-project" class="software-card">
+<a href="https://avril1989.shinyapps.io/shiny/" class="software-card">
 <img src="/assets/images/shiny.png" alt="Shiny">
 <h3>Shiny Apps</h3>
 <p>Interactive statistical applications</p>
