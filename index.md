@@ -8,10 +8,10 @@ title: Home
 <!-- LEFT COLUMN -->
 
 <aside class="sidebar">
+  
+<img src="assets/images/photo-essoham-Ali.jpeg" alt="Essoham Ali" class="profile-photo">
 
 <h1 class="name">Essoham Ali</h1>
-
-<img src="assets/images/photo-essoham-Ali.jpeg" alt="Essoham Ali" class="profile-photo">
 
 <p class="position">
 Lecturer–Researcher in Statistics
