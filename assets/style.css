@@ -52,16 +52,6 @@ a:hover, .dropdown > span:hover {
 
 .dropdown { position: relative; }
 
-/* a, .dropdown > span {
-  color: #1a5fb4;
-  text-decoration: none;
-  cursor: pointer;
-}
-
-a:hover, .dropdown > span:hover {
-  text-decoration: underline;
-} */
-
 .dropdown-content {
   display: none;
   position: absolute;
@@ -79,11 +69,19 @@ a:hover, .dropdown > span:hover {
 
 /* Layout */
 
-.page-container{
+/* .page-container{
   display:grid;
   grid-template-columns:300px 1fr;
   gap:60px;
   align-items:start;   /* IMPORTANT : empêche la sidebar de s'étirer */
+  margin-top:40px;
+} */
+
+.page-container{
+  display:grid;
+  grid-template-columns:300px 1fr;
+  gap:60px;
+  align-items:start;
   margin-top:40px;
 }
 
@@ -96,14 +94,23 @@ a:hover, .dropdown > span:hover {
   border:1px solid #e5e7eb;
 }
 
-.profile-photo{
+.sidebar img{
+  width: 180px !important;
+  max-width: 100% !important;
+  height: auto !important;
+  display: block;
+  margin: 15px auto;
+  border-radius: 50%;
+}
+
+/* .profile-photo{
   width:100%;
   max-width:180px;
   height:auto;
   display:block;
   margin:15px auto;
   border-radius:50%;
-}
+} */
 
 .name{
   font-size:26px;
