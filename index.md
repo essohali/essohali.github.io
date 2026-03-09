@@ -61,11 +61,13 @@ I am also interested in dimension reduction and semiparametric regression models
 <h2>Research Interests</h2>
 
 <ul>
-<li>Statistical modelling for count data</li>
-<li>Zero-inflated and mixture models</li>
-<li>High-dimensional statistical inference</li>
-<li>Penalized regression and variable selection</li>
-<li>Robust statistical inference</li>
+<li>Count data modeling</li>
+<li>Multivariate count models</li>
+<li>High-dimensional inference</li>
+<li>Regularization methods</li>
+<li>Robust statistics</li>
+<li>Single-index models</li>
+<li>Sparse gradient-based methods</li>
 <li>Computational statistics</li>
 </ul>
 </main>
