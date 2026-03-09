@@ -69,13 +69,13 @@ a:hover, .dropdown > span:hover {
 
 /* Layout */
 
-/* .page-container{
+.page-container{
   display:grid;
   grid-template-columns:300px 1fr;
   gap:60px;
   align-items:start;   /* IMPORTANT : empêche la sidebar de s'étirer */
   margin-top:40px;
-} */
+}
 
 /* Sidebar */
 
