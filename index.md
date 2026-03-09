@@ -45,21 +45,15 @@ essoham.ali@univ-ubs.fr
 <h1>Research Profile</h1>
 
 <p>
-My research focuses on statistical modelling and inference for complex
-data, with particular emphasis on count data models, zero-inflated
-processes, and high-dimensional statistical methods.
+My research focuses on statistical methodology for complex data, with particular emphasis on the modeling and analysis of count data, including zero-inflated, mixture, and multivariate count models.
 </p>
 
 <p>
-I develop probabilistically grounded statistical models and regularized
-estimation procedures designed to handle structured and high-dimensional
-datasets frequently encountered in modern applications.
+I also work on high-dimensional statistical inference and regularization methods, such as ridge-type estimators, penalized likelihood approaches, and variable selection techniques. Another line of my research concerns robust statistical methods and influence diagnostics, including robust estimation, doubly robust procedures, and the detection of influential observations.
 </p>
 
 <p>
-Methodologically, my research combines tools from mathematical statistics,
-statistical learning, and computational statistics, with applications in
-health sciences, economics, and data science.
+I am also interested in dimension reduction and semiparametric regression models, particularly single-index models and sparse gradient-based methods. More broadly, my work involves computational statistics, including likelihood-based inference, EM-type algorithms, and numerical methods for estimating complex statistical models.
 </p>
 
 <h2>Research Interests</h2>
