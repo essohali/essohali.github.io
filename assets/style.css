@@ -86,14 +86,14 @@ a:hover, .dropdown > span:hover {
   border:1px solid #e5e7eb;
 }
 
-/* .sidebar img{
+.sidebar img{
   width: 180px !important;
   max-width: 100% !important;
   height: auto !important;
   display: block;
   margin: 15px auto;
   border-radius: 50%;
-} */
+}
 
 /* .profile-photo{
   width:100%;
