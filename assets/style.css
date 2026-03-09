@@ -97,8 +97,8 @@ a:hover, .dropdown > span:hover {
   /* height: 180px; */
   display: block;
   /* margin: 20px auto; */
-  /* border-radius: 50%;
-  object-fit: cover; */
+  border-radius: 50%;
+  /*object-fit: cover; */
 }
 
 /* .profile-photo{
