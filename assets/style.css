@@ -70,7 +70,7 @@ a:hover, .dropdown > span:hover {
 /* Layout */
 
 .page-container{
-  display:grid;
+  /* display:grid; */
   grid-template-columns:300px 1fr;
   gap:60px;
   align-items:start;   /* IMPORTANT : empêche la sidebar de s'étirer */
