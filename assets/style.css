@@ -94,7 +94,7 @@ a:hover, .dropdown > span:hover {
 
 .sidebar img{
   width: 180px;
-  height: 180px;
+  /* height: 180px; */
   display: block;
   margin: 20px auto;
   /* border-radius: 50%;
