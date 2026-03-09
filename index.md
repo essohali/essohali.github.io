@@ -8,6 +8,8 @@ title: Home
 <!-- LEFT COLUMN -->
 
 <aside class="sidebar">
+  
+<img src="/assets/images/photo.jpg" alt="Essoham Ali" class="profile-photo">
 
 <h1 class="name">Essoham Ali</h1>
 
