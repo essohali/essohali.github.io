@@ -104,7 +104,7 @@ a:hover, .dropdown > span:hover {
   height: auto !important;
   display: block;
   margin: 15px auto;
-  border-radius: 50%;
+  /* border-radius: 50%; */
 }
 
 /* .profile-photo{
