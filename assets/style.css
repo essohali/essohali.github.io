@@ -96,11 +96,13 @@ a:hover, .dropdown > span:hover {
   border:1px solid #e5e7eb;
 }
 
-.profile-photo {
-  width: 160px;
-  border-radius: 50%;
-  display: block;
-  margin: 15px auto;
+.profile-photo{
+  width:100%;
+  max-width:180px;
+  height:auto;
+  display:block;
+  margin:15px auto;
+  border-radius:50%;
 }
 
 .name{
