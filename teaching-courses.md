@@ -26,8 +26,6 @@ statistical modelling, and computational practice using real datasets.
 - statistical reasoning
 - mathematical tools for data analysis
 
----
-
 ### Year 2 (L2 / Bachelor 2)
 
 - Linear Models  
@@ -42,8 +40,6 @@ statistical modelling, and computational practice using real datasets.
 - multivariate data analysis
 - computational statistics
 - data exploration
-
----
 
 ### Year 3 (L3 / Bachelor 3)
 
@@ -60,7 +56,6 @@ statistical modelling, and computational practice using real datasets.
 - machine learning introduction
 - applied statistical computing
 
----
 
 ## Graduate Teaching (Master Level)
 
@@ -74,7 +69,6 @@ statistical modelling, and computational practice using real datasets.
 - optimisation methods
 - modelling for decision sciences
 
----
 
 ## Teaching Formats
 
@@ -84,7 +78,6 @@ I have experience teaching in multiple pedagogical formats:
 - **Tutorials (TD)** — problem-solving sessions  
 - **Practical sessions (TP)** — computational and data analysis practice
 
----
 
 ## Programming and Software
 
@@ -95,7 +88,6 @@ Courses integrate modern statistical tools:
 - SAS
 - statistical computing environments
 
----
 
 ## Teaching Experience Overview
 
