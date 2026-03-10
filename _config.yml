@@ -1,0 +1,5 @@
+title: "Nom Prénom"
+markdown: kramdown
+theme: null
+plugins:
+  - jekyll-sitemap
