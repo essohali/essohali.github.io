@@ -11,8 +11,6 @@ data analysis, and statistical computing at undergraduate and
 graduate levels. My teaching combines mathematical foundations,
 statistical modelling, and computational practice using real datasets.
 
----
-
 ## Undergraduate Teaching
 
 ### Year 1 (L1 / Bachelor 1)
