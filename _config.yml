@@ -1,5 +1,10 @@
-title: "Nom Prénom"
+title: "Essoham Ali"
+description: "Lecturer–Researcher in Statistics"
+url: "https://essohali.github.io"
+baseurl: ""
+
 markdown: kramdown
 theme: null
+
 plugins:
   - jekyll-sitemap
