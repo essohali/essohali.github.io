@@ -39,7 +39,7 @@ permalink: /publications/
 
  3.  **Soale, Abdul-Nasah; Lukman, Adewale; Ali, Essoham.**  
    Adaptive Influence Diagnostics in Regression Models with Highly Correlated Designs.  
-   Submitted to *Statistical Methods in Medical Research*, 2025.  [PDF]
+   Submitted to *Statistical Methods in Medical Research*, 2025. <a href="/assets/paper3.pdf" class="article">[PDF]</a>
 
 2.  **Essohamn, Ali; Adewale, Lukman.** Oracle and grouping properties of the Liu-SCAD estimator with applications to low and      high-dimensional regression.  Under review to *Journal of Computational and Applied Mathematics*, 2025.   [PDF]
    
