@@ -35,7 +35,7 @@ essoham.ali@univ-ubs.fr
 
 <p>
 <a href="https://scholar.google.com/citations?user=eUeEmdAAAAAJ&hl=fr">Google Scholar</a><br>
-<a href="/cv.pdf">Curriculum Vitae</a>
+<a href="/assets/cv-essoham_ali.pdf">Curriculum Vitae</a>
 </p>
 
 </aside>
