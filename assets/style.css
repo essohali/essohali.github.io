@@ -195,6 +195,9 @@ margin-top:15px;
   color:#666;
 }
 
+.article{
+  color:#D35400;
+}
 /* Responsive */
 
 @media (max-width:850px) {
