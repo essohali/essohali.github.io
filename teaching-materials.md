@@ -8,7 +8,6 @@ permalink: /teaching-materials/
 
 This page gathers teaching resources used in my courses.
 
----
 
 ## Lecture Notes
 
@@ -19,7 +18,6 @@ This page gathers teaching resources used in my courses.
 
 *(materials available upon request or via institutional platforms)*
 
----
 
 ## Statistical Learning
 
@@ -27,7 +25,6 @@ This page gathers teaching resources used in my courses.
 - R notebooks
 - Practical sessions
 
----
 
 ## Data Science
 
@@ -35,7 +32,6 @@ This page gathers teaching resources used in my courses.
 - Project guidelines
 - Data analysis examples
 
----
 
 ## Software and Tools
 
@@ -45,7 +41,6 @@ Courses involve the use of:
 - Python
 - RMarkdown / reproducible research tools
 
----
 
 ## Student Projects
 
