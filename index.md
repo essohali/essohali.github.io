@@ -86,7 +86,7 @@ I am also interested in dimension reduction and semiparametric regression models
 <p>Statistical software and reproducible research</p>
 </a>
 
-<a href="https://github.com/essohali/python-project" class="software-card">
+<a href="/dossier-python/index.html" class="software-card">
 <img src="/assets/images/python.png" alt="Python">
 <h3>Python</h3>
 <p>Statistical computing and machine learning</p>
