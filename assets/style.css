@@ -198,6 +198,11 @@ margin-top:15px;
 .article{
   color:#D35400;
 }
+
+iframe{
+  border : none;
+}
+
 /* Responsive */
 
 @media (max-width:850px) {
