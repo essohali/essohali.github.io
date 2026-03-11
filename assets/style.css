@@ -199,8 +199,8 @@ margin-top:15px;
   color:#D35400;
 }
 
-iframe{
-  border : none;
+.pdf-frame{
+  border: none;
 }
 
 /* Responsive */
