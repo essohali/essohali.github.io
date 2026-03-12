@@ -12,7 +12,7 @@ permalink: /publications/
 
 6. **Lukman, A.F., & Ali, E.**  Contraction Ridge Estimator: Simulation and Application to Economic Data. *[Computational Economics](https://link.springer.com/article/10.1007/s10614-025-11182-x)*, to appear, 2025.
 
-5. **Ali, E., & Lukman, A.F.** Ridge-penalized Zero-Inflated Probit Bell model for multicollinearity in count data. *[Journal of Applied Statistics](https://www.tandfonline.com/doi/full/10.1080/02664763.2025.2530551)*,53(4), 633–658, 2026 .
+5. **Ali, E., & Lukman, A.F.** Ridge-penalized Zero-Inflated Probit Bell model for multicollinearity in count data. *[Journal of Applied Statistics](https://www.tandfonline.com/doi/full/10.1080/02664763.2025.2530551)*, 53(4), 633–658, 2026 .
 
 4. **Ali, E., & Pho, K.H.**  A novel model for count data: zero-inflated Probit Bell model with applications. *[Communications in Statistics – Simulation and Computation](https://www.tandfonline.com/doi/full/10.1080/03610918.2024.2384574)*, 54(11), 4586–4604, 2025.
 
