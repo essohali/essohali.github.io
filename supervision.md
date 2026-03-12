@@ -17,9 +17,7 @@ and applied data science applications.
 
 ### Co-supervised PhD student
 
-**Agnondji GNON SIYA** (2023 – present)  
-*Marginal effects and multicollinearity in semi-continuous zero-inflated models*  
-
+**Agnondji GNON SIYA** (2023 – present)  *Méthodes statistiques et computationnelles pour modèles semi-continus à inflation de zéros en grande dimension*  
 Co-supervision with **Prof. Aliou Diop** (PhD advisor).
 
 **Research topics**
