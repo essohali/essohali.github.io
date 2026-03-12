@@ -16,8 +16,7 @@ permalink: /publications/
 
 4. **Ali, E., & Pho, K.H.**  A novel model for count data: zero-inflated Probit Bell model with applications. *[Communications in Statistics – Simulation and Computation](https://www.tandfonline.com/doi/full/10.1080/03610918.2024.2384574)*, 54(11), 4586–4604, 2025.
 
-3. **Ali, E.** A simulation-based study of ZIP regression with various zero-inflated submodels.  
-   *[Communications in Statistics – Simulation and Computation](https://www.tandfonline.com/doi/full/10.1080/03610918.2022.2025840)*, 53(2), 642–657, 2024.
+3. **Ali, E.** A simulation-based study of ZIP regression with various zero-inflated submodels. *[Communications in Statistics – Simulation and Computation](https://www.tandfonline.com/doi/full/10.1080/03610918.2022.2025840)*, 53(2), 642–657, 2024.
 
 2. **Ali, E., Diop, M.L., & Diop, A.** Statistical Inference in a Zero-Inflated Bell Regression Model. *[Mathematical Methods of Statistics](https://link.springer.com/article/10.3103/S1066530722030012)*, 31, 91–104, 2022.
 
