@@ -29,7 +29,7 @@ permalink: /publications/
   **Ali, E.** Invited chapter for an edited volume (in preparation). Publisher: *IntechOpen*.  Invitation received in 2026. <a href="https://www.intechopen.com/welcome/c7066c5f85fb017f?book_id=1005337" target="_blank">Project page</a>.
 
 ## Submitted / Preprints
- 5. **Ali, Essoham;  Lukman, Adewale; Soale, Abdul-Nasah; Solym M., Manou-Abi.** Shared–idiosyncratic frailty models for multivariate count data. Submitted to *Computational Statistics and Data Analysis*, 2026. <a href="/assets/Manuscrit.pdf" class="article">[PDF]</a>
+ 5. **Ali, Essoham;  Lukman, Adewale; Soale, Abdul-Nasah; Solym M., Manou-Abi.** Shared–idiosyncratic frailty models for multivariate count data. Submitted . <a href="/assets/Manuscrit.pdf" class="article">[PDF]</a>
 
  4. **Soale, Abdul-Nasah; Lukman, Adewale; Ali, Essoham.**  Doubly-robust sufficient variable selection in single-index models with outlier contamination. Under review to *Electronic Journal of Statistics*, 2026. <a href="/assets/paper2.pdf" class="article">[PDF]</a>
 
