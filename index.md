@@ -42,77 +42,32 @@ essoham.ali@univ-ubs.fr
 
 <!-- RIGHT COLUMN -->
 
+<!-- RIGHT COLUMN -->
+
 <main class="content">
 
 <h1>Research Profile</h1>
 
 <p>
 My research focuses on statistical methodology for complex multivariate data, 
-with particular emphasis on <strong>latent-variable models, structured dependence, 
-identifiability, and statistical inference</strong>. A central theme of my current 
-work is the development of parsimonious latent structures for representing 
-multivariate dependence and sparsity, with an emphasis on interpretable models 
-supported by rigorous probabilistic and inferential theory.
+with particular emphasis on latent-variable models, structured dependence, 
+identifiability, and statistical inference.
 </p>
 
 <p>
-One current research direction concerns <strong>latent-variable models for 
-multivariate discrete data</strong>. I develop models in which structural sparsity 
-and dependence arise from common latent mechanisms. This includes threshold-based 
-constructions in which ordered latent activation structures provide parsimonious 
-representations of multivariate dependence. My work in this area addresses 
-probabilistic characterization, identifiability, likelihood-based inference, 
-asymptotic theory, and computational estimation.
+My current research explores parsimonious latent structures for multivariate 
+dependence and sparsity, including threshold-based models for multivariate 
+discrete data and shared–idiosyncratic representations for multivariate point 
+processes and random measures.
 </p>
 
 <p>
-A second current direction concerns <strong>functional data, multivariate point 
-processes, and random measures</strong>. I am particularly interested in 
-shared–idiosyncratic representations that separate common sources of variation 
-from component-specific variation. This research combines covariance-operator 
-methods, spectral analysis, and measure-valued representations to develop 
-interpretable tools for studying dependence in complex stochastic data.
+My broader research interests include zero-inflated and multivariate count 
+models, dimension reduction, regularized and robust estimation, and computational 
+statistics. Across these areas, I am interested in developing interpretable 
+statistical models supported by rigorous inferential theory and computationally 
+tractable methods.
 </p>
-
-<p>
-My earlier and continuing research includes <strong>zero-inflated and multivariate 
-count models, regularized estimation, robust inference, and semiparametric 
-dimension reduction</strong>. More broadly, my work explores connections between 
-latent structures, multivariate dependence, structured and sparse data, dimension 
-reduction, and computational statistics, with applications to discrete, count, 
-biomedical, and event-based data.
-</p>
-
-
-<h2>Current Research</h2>
-
-<h3>Latent-variable models and structured multivariate dependence</h3>
-
-<p>
-I am developing latent-variable models in which multivariate dependence and 
-structural sparsity are generated through interpretable common latent mechanisms. 
-A current focus is the <strong>max-threshold framework for multivariate discrete 
-distributions</strong>, where a continuous latent variable and an ordered sequence 
-of thresholds jointly determine component activation and dependence. This framework 
-provides a parsimonious alternative to unrestricted covariance-based dependence 
-models and leads to questions involving mixed-moment characterization, 
-identifiability, likelihood inference, and higher-order dependence.
-</p>
-
-
-<h3>Shared and idiosyncratic structures for multivariate point processes</h3>
-
-<p>
-I am also developing methodology for <strong>multivariate point processes and 
-random measures</strong>. The objective is to identify and separate variation 
-shared across multiple point-process components from variation specific to each 
-component. The resulting shared–idiosyncratic framework uses cross-component 
-second-order information and spectral analysis to construct 
-<strong>shared and idiosyncratic principal measures</strong>, providing 
-measure-valued representations of the dominant modes of variation on the original 
-event domain.
-</p>
-
 
 <h2>Research Interests</h2>
 
@@ -124,13 +79,12 @@ event domain.
 <li>Zero-inflated models</li>
 <li>Functional data and multivariate point processes</li>
 <li>Random measures and spectral methods</li>
-<li>Dimension reduction and structured multivariate data</li>
+<li>Dimension reduction</li>
 <li>Regularized and robust estimation</li>
 <li>Computational statistics</li>
 </ul>
 
 </main>
-
 <!-- SOFTWARE SECTION FULL WIDTH -->
 
 <section class="software-section">
