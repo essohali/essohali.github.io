@@ -69,18 +69,15 @@ statistical models supported by rigorous inferential theory and computationally
 tractable methods.
 </p>
 
+
 <h2>Research Interests</h2>
 
 <ul>
 <li>Latent-variable models</li>
-<li>Multivariate dependence and structured sparsity</li>
-<li>Identifiability and statistical inference</li>
+<li>Multivariate dependence and structured data</li>
 <li>Multivariate discrete and count data</li>
-<li>Zero-inflated models</li>
-<li>Functional data and multivariate point processes</li>
-<li>Random measures and spectral methods</li>
-<li>Dimension reduction</li>
-<li>Regularized and robust estimation</li>
+<li>Functional data, point processes and random measures</li>
+<li>Dimension reduction and statistical inference</li>
 <li>Computational statistics</li>
 </ul>
 
