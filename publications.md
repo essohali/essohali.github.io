@@ -7,7 +7,7 @@ permalink: /publications/
 # Publications
 
 ## Articles (Statistics)
-Siya, A. G., Ali, E., & Diop, A. (2026). Marginal effects for zero-inflated semi-continuous data. Journal of Statistical Computation and Simulation, 96(15), 3989–4027. https://doi.org/10.1080/00949655.2026.2686845
+8. Siya, A. G., **Ali, E.**, & Diop, A. Marginal effects for zero-inflated semi-continuous data. *[Journal of Statistical Computation and Simulation](https://www.tandfonline.com/doi/full/10.1080/00949655.2026.2686845)*, 96(15), 3989–4027, 2026.
 
 7. **Ali, E., Lukman, A.F., & Manou-Abi, S.M.**  Regularized estimation for right-censored zero-inflated Poisson regression: methods and applications to health data. *[Computational Statistics](https://link.springer.com/article/10.1007/s00180-025-01675-6)*, 41(18), 2026.
 
