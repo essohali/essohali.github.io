@@ -7,6 +7,7 @@ permalink: /publications/
 # Publications
 
 ## Articles (Statistics)
+Siya, A. G., Ali, E., & Diop, A. (2026). Marginal effects for zero-inflated semi-continuous data. Journal of Statistical Computation and Simulation, 96(15), 3989–4027. https://doi.org/10.1080/00949655.2026.2686845
 
 7. **Ali, E., Lukman, A.F., & Manou-Abi, S.M.**  Regularized estimation for right-censored zero-inflated Poisson regression: methods and applications to health data. *[Computational Statistics](https://link.springer.com/article/10.1007/s00180-025-01675-6)*, 41(18), 2026.
 
@@ -29,13 +30,13 @@ permalink: /publications/
   **Ali, E.** Invited chapter for an edited volume (in preparation). Publisher: *IntechOpen*.  Invitation received in 2026. <a href="https://www.intechopen.com/welcome/c7066c5f85fb017f?book_id=1005337" target="_blank">Project page</a>.
 
 ## Submitted / Preprints
- 5. **Ali, Essoham;  Lukman, Adewale; Soale, Abdul-Nasah; Solym M., Manou-Abi.** Shared–idiosyncratic frailty models for multivariate count data. Submitted . <a href="/assets/Manuscrit.pdf" class="article">[PDF]</a>
+ 1. **Ali, Essoham;  Lukman, Adewale; Soale, Abdul-Nasah; Solym M., Manou-Abi.** Shared–idiosyncratic frailty models for multivariate count data. Submitted . <a href="/assets/Manuscrit.pdf" class="article">[PDF]</a>
 
- 4. **Soale, Abdul-Nasah; Lukman, Adewale; Ali, Essoham.**  Doubly-robust sufficient variable selection in single-index models with outlier contamination. Under review to *Electronic Journal of Statistics*, 2026. <a href="/assets/paper2.pdf" class="article">[PDF]</a>
+ 2. **Soale, Abdul-Nasah; Lukman, Adewale; Ali, Essoham.**  Doubly-robust sufficient variable selection in single-index models with outlier contamination. Under review to *Electronic Journal of Statistics*, 2026. <a href="/assets/paper2.pdf" class="article">[PDF]</a>
 
  3.  **Soale, Abdul-Nasah; Lukman, Adewale; Ali, Essoham.** Adaptive Influence Diagnostics in Regression Models with Highly Correlated Designs. Under review to *Statistical Methods in Medical Research*, 2025. <a href="/assets/paper3.pdf" class="article">[PDF]</a>
 
-2.  **Essoham, Ali; Adewale, Lukman.** Oracle and grouping properties of the Liu-SCAD estimator with applications to low and high-dimensional regression.  Under review to *Journal of Computational and Applied Mathematics*, 2025. <a href="/assets/paper4.pdf" class="article">[PDF]</a>
+4.  **Essoham, Ali; Adewale, Lukman.** Oracle and grouping properties of the Liu-SCAD estimator with applications to low and high-dimensional regression.  Under review to *Journal of Computational and Applied Mathematics*, 2025. <a href="/assets/paper4.pdf" class="article">[PDF]</a>
    
-1. **Agnondji Gnon, Siya; Essoham, Ali; Aliou, Diop.** Marginal effects for zero-inflated semi-continuous data. Under review to *Journal of Statistical Computation and Simulation*, 2025. <a href="/assets/paper5.pdf" class="article">[PDF]</a>
+
 
