@@ -22,7 +22,7 @@ Institute of Applied Mathematics (MAI) UCO Angers
 </p>
 
 <p class="affiliation">
-Member of LMBA, Université Bretagne Sud
+Associate member of LMBA, Université Bretagne Sud
 </p>
 
 <p class="contact">
