@@ -30,11 +30,11 @@ permalink: /publications/
   **Ali, E.** Invited chapter for an edited volume (in preparation). Publisher: *IntechOpen*.  Invitation received in 2026. <a href="https://www.intechopen.com/welcome/c7066c5f85fb017f?book_id=1005337" target="_blank">Project page</a>.
 
 ## Submitted / Preprints
-1. **Ali, Essoham.** Sharp minimax rates and adaptive estimation of latent proportions in bivariate Poisson mixtures.
-2. **Ali, Essoham; Lukman, Adewale; Akinyemi, Ibukun; Manou-Abi, Solym.** Supervised multivariate principal measures for single-cell point processes.
-3. **Ali, Essoham.** Shared and idiosyncratic principal measures for multivariate point processes.
+1. **Ali, Essoham.** Sharp minimax rates and adaptive estimation of latent proportions in bivariate Poisson mixtures. Submitted.
+2. **Ali, Essoham; Lukman, Adewale; Akinyemi, Ibukun; Manou-Abi, Solym.** Supervised multivariate principal measures for single-cell point processes. Submitted.
+3. **Ali, Essoham.** Shared and idiosyncratic principal measures for multivariate point processes. Submitted.
 4. **Ali, Essoham;  Lukman, Adewale; Soale, Abdul-Nasah; Solym M., Manou-Abi.** Shared–idiosyncratic frailty models for multivariate count data. Submitted . 
-5. **Soale, Abdul-Nasah; Lukman, Adewale; Ali, Essoham.**  Robust Dual-Regularized Variable Selection under Outlier Contamination 
+5. **Soale, Abdul-Nasah; Lukman, Adewale; Ali, Essoham.**  Robust Dual-Regularized Variable Selection under Outlier Contamination. Submitted.
 
 
 
