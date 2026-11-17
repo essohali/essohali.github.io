@@ -30,13 +30,13 @@ permalink: /publications/
   **Ali, E.** Invited chapter for an edited volume (in preparation). Publisher: *IntechOpen*.  Invitation received in 2026. <a href="https://www.intechopen.com/welcome/c7066c5f85fb017f?book_id=1005337" target="_blank">Project page</a>.
 
 ## Submitted / Preprints
- 1. **Ali, Essoham;  Lukman, Adewale; Soale, Abdul-Nasah; Solym M., Manou-Abi.** Shared–idiosyncratic frailty models for multivariate count data. Submitted . <a href="/assets/Manuscrit.pdf" class="article">[PDF]</a>
+1. **Ali, Essoham.** Sharp minimax rates and adaptive estimation of latent proportions in bivariate Poisson mixtures.
+2. **Ali, Essoham; Lukman, Adewale; Akinyemi, Ibukun; Manou-Abi, Solym.** Supervised multivariate principal measures for single-cell point processes.
+3. **Ali, Essoham.** Shared and idiosyncratic principal measures for multivariate point processes.
+4. **Ali, Essoham;  Lukman, Adewale; Soale, Abdul-Nasah; Solym M., Manou-Abi.** Shared–idiosyncratic frailty models for multivariate count data. Submitted . 
+5. **Soale, Abdul-Nasah; Lukman, Adewale; Ali, Essoham.**  Robust Dual-Regularized Variable Selection under Outlier Contamination 
 
- 2. **Soale, Abdul-Nasah; Lukman, Adewale; Ali, Essoham.**  Doubly-robust sufficient variable selection in single-index models with outlier contamination. Under review to *Electronic Journal of Statistics*, 2026. <a href="/assets/paper2.pdf" class="article">[PDF]</a>
 
- 3.  **Soale, Abdul-Nasah; Lukman, Adewale; Ali, Essoham.** Adaptive Influence Diagnostics in Regression Models with Highly Correlated Designs. Under review to *Statistical Methods in Medical Research*, 2025. <a href="/assets/paper3.pdf" class="article">[PDF]</a>
 
-4.  **Essoham, Ali; Adewale, Lukman.** Oracle and grouping properties of the Liu-SCAD estimator with applications to low and high-dimensional regression.  Under review to *Journal of Computational and Applied Mathematics*, 2025. <a href="/assets/paper4.pdf" class="article">[PDF]</a>
-   
 
 
